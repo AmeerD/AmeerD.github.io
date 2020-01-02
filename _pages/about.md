@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Ameer. I am currenty a MSc candidate at the University of Toronto in the Department of Statistical Sciences. My primary areas of interest are computational statistics, simulation, and optimization. I find the intersection of these areas (such as randomized optimization algorithms) to be particularly interesting. I also happen to have a soft spot for graphical models. Since joining UofT, I have been exploring my areas of interest in the context of operations research.
+Hello, my name is Ameer. I am currenty a MSc candidate at the University of Toronto in the Department of Statistical Sciences. My primary areas of interest are computational statistics, simulation, and optimization. I find the intersection of these areas to be particularly interesting (for example using randomness to solve optimization problems). I also happen to have a soft spot for graphical models and networks in general. Since joining UofT, I have been exploring my areas of interest in the context of operations research.
 
-Previously, I completed my Bachelor of Mathematics from the University of Waterloo where I studied a mix of statistics, computer science, and finance. My internship and extracurricular experiences over the past few years have had me explore subject areas including  computer vision, text mining, venture capital, and predictive modelling with financial data. Keep reading to learn a little more about my academic and professional experiences!
+Previously, I completed my BMath at the University of Waterloo where I studied a mix of statistics, computer science, and finance. My school, co-op, and extracurricular experiences during my time at UW had me explore subject areas including computer vision, text mining, venture capital, and predictive modelling with financial data. Take a look at the portfolio and CV tabs to learn a little more about my academic and professional experiences!
 
---Ameer
-
-About My Background
+A Little About Me Personally
 ======
+Outside of school, I like to bike in the summer, skate in the winter, and play squash whenever I can. I'm also into board games and absolutely adore my Nintendo Switch - before you ask, Fire Emblem is easily my favourite game. Since coming back to Toronto, I've also been on a culinary adventure. One of my favourite things about this city is that there is always an interesting restaurant, tea shop, or dessert place to sample...bonus points if it's an ice cream place! Given my love of desserts, I have attempted to bake though the results range between promising to disastrous depending on who you ask.
+
+
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
