@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below are the courses and TA positions I have taken so far at UofT.
+Below are the courses and TA positions I have taken (or am currently taking) at UofT.
 
 Winter 2020
 ======
