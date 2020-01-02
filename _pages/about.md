@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-TEST!!!
+
 Hello, my name is Ameer. I am currenty a MSc candidate at the University of Toronto in the Department of Statistical Sciences. My primary areas of interest are computational statistics, simulation, and optimization. I find the intersection of these areas to be particularly interesting (for example using randomness to solve optimization problems). I also happen to have a soft spot for graphical models and networks in general. Since joining UofT, I have been exploring my areas of interest in the context of operations research.
 
 Previously, I completed my BMath at the University of Waterloo where I studied a mix of statistics, computer science, and finance. My school, co-op, and extracurricular experiences during my time at UW had me explore subject areas including computer vision, text mining, venture capital, and predictive modelling with financial data. Take a look at the portfolio and CV tabs to learn a little more about my academic and professional experiences!
