@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Below are the courses and TA positions I have taken so far at UofT.
+
 Winter 2020
 ======
 * CSC 2532: Statistical Learning Theory
