@@ -2,7 +2,7 @@
 title: "CSEye: A Proposed Solution for Accurate and Accessible One-to-Many Face Verification"
 collection: publications
 permalink: /publication/CSEye
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Ameer Dharamshi, Rosie Yuyan Zou'
 date: 2019-01-31
 venue: 'AAAI Student Abstract Category'
 paperurl: 'http://ameerd.github.io/files/CSEye_AAAI_2019_SA_412_CRC.pdf'
