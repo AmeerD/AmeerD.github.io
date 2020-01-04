@@ -12,7 +12,7 @@ en: &DEFAULT_EN
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
-  share_on_label             : 
+  share_on_label             : False
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
