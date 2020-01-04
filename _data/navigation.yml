@@ -10,13 +10,7 @@ main:
     url: /cv/
         
   - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /year-archive/   
     
   - title: "Publications"
     url: /publications/
