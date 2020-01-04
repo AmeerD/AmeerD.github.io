@@ -5,8 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Publications
-======
+## Publications
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -18,8 +17,7 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-Projects
-======
+## Projects
 
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
