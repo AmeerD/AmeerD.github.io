@@ -1,6 +1,6 @@
 ---
-title: "VRP"
-excerpt: "Short description of portfolio item number 2"
+title: "Solving the Vehicle Routing Problem with Simulated Annealing"
+excerpt: "October - November 2019"
 collection: portfolio
 ---
 
