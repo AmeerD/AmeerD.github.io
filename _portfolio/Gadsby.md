@@ -1,6 +1,7 @@
 ---
 title: "Gadsby Text Mining"
 excerpt: "September 2017 - June 2018"
+date: 2018-06-01
 collection: portfolio
 ---
 
