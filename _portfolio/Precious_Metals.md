@@ -1,6 +1,6 @@
 ---
-title: "Gadsby Text Mining"
-excerpt: "September 2017 - June 2018"
+title: "Precious Metals Minimum Variance Index"
+excerpt: "November 2019 - December 2019"
 collection: portfolio
 ---
 
