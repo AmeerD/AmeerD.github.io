@@ -1,5 +1,5 @@
 ---
-title: "Solving the Farming Problem"
+title: "The Farming Problem"
 excerpt: "November 2019 - December 2019"
 collection: portfolio
 ---
