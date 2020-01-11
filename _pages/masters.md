@@ -14,7 +14,7 @@ Below are the courses and TA positions I have taken (or am currently taking) at 
 Winter 2020
 ======
 * CSC 2532: Statistical Learning Theory
-* MIE 1613: Stochastic Simulation
+* CSC 2506: Probabilistic Learning and Reasoning
 * MIE 1621: Non-Linear Optimization
 * STA 2201: Methods of Applied Statistics II
 * STA 2212: Mathematical Statistics II
