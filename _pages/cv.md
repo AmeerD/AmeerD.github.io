@@ -25,24 +25,29 @@ Financial Analyst, ONEX Corporation
 *	Involved in brainstorming, analyzing, and preparing presentations for investor relations efforts, including the fundraising process for ONEX Partners V.
 *	Explored historical financial data accumulated throughout ONEX’s history to search for undiscovered relationships between various tracked metrics.
 
+Co-op Associate, PricewaterhouseCoopers LLP
+* January 205 - April 2015, January 2016 - April 2016
+* Valued public and private investments included equity, debt, and derivative securities.
+* 
+
+
 Fall 2015: Research Assistant
 * Github University
 * Duties included: Merging pull requests
 * Supervisor: Professor Hub
   
 ## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Skills:
+  * R/RMarkdown: tidyverse (dplyr, ggplot2, etc.)
+  * Python: Keras, scikit-learn, numpy, pandas
+  * SQL
+  * MATLAB
+  * C/C++
 
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
   
 ## Extracurricular Activities
 Mentor, Student Venture Fund, University of Waterloo
