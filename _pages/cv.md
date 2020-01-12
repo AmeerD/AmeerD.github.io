@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Master of Science in Statistical Sciences, University of Toronto, 2020 (expected)
 * Bachelor of Mathematics, University of Waterloo, 2018
 
-Work experience
-======
+## Work experience
 Consultant, Omnia AI, Deloitte Canada's AI Practice
 * September 2018 - June 2019
 * Developed a series of SQL scripts and stored procedures to identify and isolate irregularities in the credit card transactions of a major Canadian financial institution. Once identified, reconstructed the transaction histories of the impacted accounts correctly and remediated all accounts accordingly.
@@ -27,13 +25,12 @@ Financial Analyst, ONEX Corporation
 *	Involved in brainstorming, analyzing, and preparing presentations for investor relations efforts, including the fundraising process for ONEX Partners V.
 *	Explored historical financial data accumulated throughout ONEX’s history to search for undiscovered relationships between various tracked metrics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Fall 2015: Research Assistant
+* Github University
+* Duties included: Merging pull requests
+* Supervisor: Professor Hub
   
-Skills
-======
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -41,15 +38,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Extracurricular Activities
-======
+## Extracurricular Activities
 Mentor, Student Venture Fund, University of Waterloo
 * September 2017 - August 2018
 * Attended angel network meetings, investment due diligence sessions, and performed research over prospective investee companies. 
