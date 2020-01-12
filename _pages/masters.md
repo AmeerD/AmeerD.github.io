@@ -11,24 +11,21 @@ redirect_from:
 
 Below are the courses and TA positions I have taken (or am currently taking) at UofT.
 
-Winter 2020
-======
+## Winter 2020
 * CSC 2532: Statistical Learning Theory
 * CSC 2506: Probabilistic Learning and Reasoning
 * MIE 1621: Non-Linear Optimization
 * STA 2201: Methods of Applied Statistics II
 * STA 2212: Mathematical Statistics II
 
-Fall 2019
-======
+## Fall 2019
 * STA 3431: Monte Carlo Methods
 * MIE 1620: Linear Programming and Network Flows
 * STA 2101: Methods of Applied Statistics I
 * STA 2202: Time Series Analysis
 * STA 2112: Mathematical Statistics I
 
-Teaching Assistantships
-======
+## Teaching Assistantships
 * STA 238: Probability, Statistics and Data Analysis II (Winter 2020)
   * Hosting weekly and pre-exam office hours
   * Running weekly tutorials in which we will go through practice problems, exam review, and in-class assignments
