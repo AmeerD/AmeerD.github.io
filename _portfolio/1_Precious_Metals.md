@@ -1,6 +1,6 @@
 ---
 title: "Precious Metals Minimum Variance Index"
-excerpt: "November 2019 - December 2019"
+excerpt: "The Construction of a Minimum Variance Index to Track Precious Metals, Currencies, and Cryptocurrencies."
 collection: portfolio
 ---
 
