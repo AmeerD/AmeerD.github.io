@@ -1,6 +1,6 @@
 ---
 title: "Gadsby Text Mining"
-excerpt: "September 2017 - June 2018"
+excerpt: "A Story of Over 50,000 Words Without Using the Letter "E"...or is it?"
 collection: portfolio
 ---
 
