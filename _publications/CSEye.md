@@ -5,7 +5,7 @@ permalink: /publication/CSEye
 excerpt: 'Ameer Dharamshi, Rosie Yuyan Zou'
 date: 2019-01-31
 venue: 'AAAI Student Abstract Track'
-paperurl: 'http://ameerd.github.io/files/CSEye_AAAI_2019_SA_412_CRC.pdf'
+paperurl: 'https://aaai.org/ojs/index.php/AAAI/article/view/5103'
 citation: 
 ---
 
