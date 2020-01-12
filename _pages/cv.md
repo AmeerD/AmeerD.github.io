@@ -27,15 +27,9 @@ Financial Analyst, ONEX Corporation
 
 Co-op Associate, PricewaterhouseCoopers LLP
 * January 205 - April 2015, January 2016 - April 2016
-* Valued public and private investments included equity, debt, and derivative securities.
-* 
+* Valued public and private investments including equity, debt, and derivative securities.
+* Constructed modified Black Scholes models to value exotic options.
 
-
-Fall 2015: Research Assistant
-* Github University
-* Duties included: Merging pull requests
-* Supervisor: Professor Hub
-  
 ## Skills
 * Software Skills:
   * R/RMarkdown: tidyverse (dplyr, ggplot2, etc.)
