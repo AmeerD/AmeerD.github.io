@@ -1,6 +1,6 @@
 ---
 title: "The Farming Problem"
-excerpt: "November 2019 - December 2019"
+excerpt: "Comparing the Performance of the Simplex Method and Dantzig-Wolfe Decomposition."
 collection: portfolio
 ---
 
