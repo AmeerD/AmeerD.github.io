@@ -52,6 +52,7 @@ Faculty of Mathematics Student Marker, University of Waterloo
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+* See [Portfolio](https://ameerd.github.io/portfolio) for more details.
   
 ## Extracurricular Activities
 Mentor, Student Venture Fund, University of Waterloo
