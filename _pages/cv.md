@@ -26,9 +26,14 @@ Financial Analyst, ONEX Corporation
 *	Explored historical financial data accumulated throughout ONEX’s history to search for undiscovered relationships between various tracked metrics.
 
 Co-op Associate, PricewaterhouseCoopers LLP
-* January 205 - April 2015, January 2016 - April 2016
+* January 2015 - April 2015, January 2016 - April 2016
 * Valued public and private investments including equity, debt, and derivative securities.
 * Constructed modified Black Scholes models to value exotic options.
+
+Faculty of Mathematics Student Marker, University of Waterloo
+* September 2014 - December 2014, May 2015 - August 2015
+* Marked weekly student assignemtns for Algebra in Fall 2014 and Calculus in Spring 2015
+* Piloted Crowdmark for the Math Faculty before its widespread adoption.
 
 ## Skills
 * Software Skills:
@@ -37,7 +42,12 @@ Co-op Associate, PricewaterhouseCoopers LLP
   * SQL
   * MATLAB
   * C/C++
-
+* Techniques:
+  * Simulation: Classical and MCMC Methods
+  * Applied Statistics: Regression, Time Series, Structural Equation Modelling, Bayesian Inference, Data Visualization
+  * Optimization: Linear & Non-Linear Optimization, Gradient Based Methods
+  * Machine Learning: Supervised (Logistic Regression, Random Forests, Support Vector Machines, Neural Networks), Unsupervised (Clustering, Expectation-Maximization)
+  
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
