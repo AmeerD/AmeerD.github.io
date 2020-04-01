@@ -14,6 +14,6 @@ Previously, I completed my BMath at the University of Waterloo where I studied a
 
 A Little About Me Personally
 ======
-Outside of school, I like to bike in the summer, skate in the winter, and play squash whenever I can. I'm also into board games and absolutely adore my Nintendo Switch - before you ask, Fire Emblem is easily my favourite game. Since coming back to Toronto, I've also been on a culinary adventure. One of my favourite things about this city is that there is always an interesting restaurant, tea shop, or dessert place to sample...bonus points if it's an ice cream place! Given my love of desserts, I have also attempted to take up baking though the results range between promising and disastrous depending on who you ask.
+Outside of school, I like to bike in the summer, skate in the winter, and play squash whenever I can. I'm also into board games and love my switch (Fire Emblem is the best game). Since coming back to Toronto, I've also been on a culinary adventure. One of my favourite things about this city is that there is always an interesting restaurant, tea shop, or dessert place to sample.
 
-Thanks for reading! I hope you find something interesting while you are here!
+Thanks for reading!
