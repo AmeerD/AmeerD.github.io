@@ -13,7 +13,7 @@ Conventional statisitcal wisdom tells us that overparameterizing a model results
 However, when we consider Legendre features, the polynomials do converge asymptotically:
 
 <p align="center">
-  <img width="560" height="600" src="https://ameerd.github.io/images/Legendre.PNG">
+  <img width="560" height="600" src="https://ameerd.github.io/images/Legendre2.pdf">
 </p>
 
 The report can be found [here](https://ameerd.github.io/files/Polynomial_Interpolation_Report.pdf).
