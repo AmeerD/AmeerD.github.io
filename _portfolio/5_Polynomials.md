@@ -18,3 +18,4 @@ However, when we consider Legendre features, the polynomials do converge asympto
 
 The report can be found [here](https://ameerd.github.io/files/Polynomial_Interpolation_Report.pdf).
 
+pdfs
