@@ -1,11 +1,16 @@
 ---
-title: "Solving the Vehicle Routing Problem with Simulated Annealing"
-excerpt: "Using Simulation to Solve for Shortest Paths."
+title: "Overparameterizing Polynomial Interpolation"
+excerpt: "To infinity and beyond!"
 collection: portfolio
 ---
 
-Combinatorial optimization problems are a class of optimization problems involving selecting the optimal alterative from a finite set. Common examples are the Travelling Salesman Problem, the Knapsack Problem, and the Assignment Problem. However, the list of alternatives in these problems typically grows dramatically as the problem size increases and thus simply enumerating over all the possible choices is not feasible. Instead we can turn to randomized approaches such as Simulated Annealing. Simulated Annealing involves using MCMC to construct a series of feasible solutions to the problem that explore the set of possible alternatives and converge to the optimal solution. Proposals are accepted based on their performance on some cost function (usually incorporated into the [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution)). To allow the chain to explore adequately early and converge as the algorithm progresses, tempering is introduced. This means that the distribution controlling the acceptance of proposals is flattened early to allow easier movement and sharpened as the algorithm iterates so that the optimal solution is gradually found.
+Conventional statisitcal wisdom tells us that overparameterizing a model results in high variance and poor generalization. In other words, the model overfits the training data. However, recent works have demonstrated empirically that as the number of parameters approaches the interpolation limit, the population risk diverges. Interestingly, the risk descends beyond the interpolation limit and in certain cases, the global minimum is achieved in the overparameterized region. In this work, we turn to classic interpolating functions, polynomials, to observe whether they benefit from overparameterizing. Given that there are an infinite number of overparameterized solutions, we consider the minimum norm solutions. We find that when using basic Vandermonde features, the risk diverges as seen in the following plots:
 
-In this [report](https://ameerd.github.io/files/VRP-Project---Github-Version.html), the Vehicle Routing Problem (VRP) is solved using simulated annealing. The VRP is formulated as finding the optimal routing that minimizes the distance for a total of k vehicles to visit each of n destinations exactly once before returning to the initial source node. This requires assigning destinations to each vehicle and then optimizing the route of each vehicle over its assigned nodes. This report examine the effects of different cooling schedules that control the tempering aspect of the algorithm and variants of the objective function. The optimal solutions visualise quite nicely. At optimality, the map is divided into distinct sections serviced by a single vehicle. This intuitively makes sense as overlapping routes indicate an opportunity to improve. A sample output is presented below:
+![](https://ameerd.github.io/images/Vandermonde.png)
 
-![](https://ameerd.github.io/images/VRPSolution.png)
+However, when we consider Legendre features, the polynomials do converge asymptotically:
+
+![](https://ameerd.github.io/images/Legendre.png)
+
+The report can be found [here](https://ameerd.github.io/files/Polynomial_Interpolation_Report.pdf).
+
