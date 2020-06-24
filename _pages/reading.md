@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 ## Currently Reading
 * The Wanderers, Meg Howrey
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
-  * I read half of this one in an LPs course so at somepoint I want to read the other half
+  * I read half of this one in an LPs course so at some point I want to read the other half
 
 ## The Backlog
 * Fierce Kingdom, Gin Phillips
