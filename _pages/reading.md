@@ -20,6 +20,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells
 * The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
+* Educated, Tara Westover
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
 
