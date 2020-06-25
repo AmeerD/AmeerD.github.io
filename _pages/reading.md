@@ -23,6 +23,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Educated, Tara Westover
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
+* The Answer Is … : Reflections on My Life, Alex Trebek
 
 ## Favourites - Fiction
 * The Night Circus, Erin Morgenstern
