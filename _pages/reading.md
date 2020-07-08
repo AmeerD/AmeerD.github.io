@@ -21,6 +21,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
+* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
