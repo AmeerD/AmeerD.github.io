@@ -11,13 +11,12 @@ I've been inspired by the recent trend of people posting their list favourite bo
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* The Wanderers, Meg Howrey
+* The Uninhabitable Earth: Life After Warming, David Wallace-Wells
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
   * I read half of this one in an LPs course so at some point I want to read the other half
 
 ## The Backlog
 * Fierce Kingdom, Gin Phillips
-* The Uninhabitable Earth: Life After Warming, David Wallace-Wells
 * The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
@@ -26,7 +25,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
 
-## Favourites - Fiction
+## Favourites 
+* The Wanderers, Meg Howrey (August 2020)
 * The Night Circus, Erin Morgenstern
 * All The Light We Cannot See, Anthony Doerr
 * Station Eleven, Emily St. John Mandel
