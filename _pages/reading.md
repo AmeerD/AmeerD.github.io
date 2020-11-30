@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their list favourite bo
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* The Uninhabitable Earth: Life After Warming, David Wallace-Wells
+* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
   * I read half of this one in an LPs course so at some point I want to read the other half
 
@@ -20,12 +20,12 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
-* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
 
 ## Favourites 
+* The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
 * The Wanderers, Meg Howrey (August 2020)
 * The Night Circus, Erin Morgenstern
 * All The Light We Cannot See, Anthony Doerr
