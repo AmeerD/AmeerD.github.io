@@ -11,6 +11,9 @@ redirect_from:
 
 Below are the courses and TA positions I have taken (or am currently taking) at UofT.
 
+## Spring 2020
+* CHL 5212: Predictive Modelling in the Health Sciences
+
 ## Winter 2020
 * CSC 2532: Statistical Learning Theory
 * CSC 2506: Probabilistic Learning and Reasoning
@@ -26,6 +29,9 @@ Below are the courses and TA positions I have taken (or am currently taking) at 
 * STA 2112: Mathematical Statistics I
 
 ## Teaching Assistantships
+* STA 302: Methods of Data Analysis I (Spring 2020)
+  * Hosted weekly virtual office hours
+  * Marked assignments and final reports
 * STA 238: Probability, Statistics and Data Analysis II (Winter 2020)
   * Hosting weekly and pre-exam office hours
   * Running weekly tutorials in which we will go through practice problems, exam review, and in-class assignments
