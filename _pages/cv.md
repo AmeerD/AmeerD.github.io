@@ -14,6 +14,13 @@ redirect_from:
 * Bachelor of Mathematics, University of Waterloo, 2018
 
 ## Work experience
+Research & Data Consultant, Global Education Monitoring Report, UNESCO
+* June 2020 - Present
+*	Developed the Adjusted Bayesian Completion Rate (ABC) model to estimate true education completion rates at the primary, lower secondary, and upper secondary levels in conjunction with a team of education experts and statisticians.
+*	This model is to be adopted as the UN standard for the monitoring of education completion under Sustainable Development Goal 4.
+*	Currently experimenting with a joint male and female model to study the effects of an additional hierarchy on parameter values and quality of results.
+*	Producing a dashboard to present model results and findings in a digestible format.
+
 Consultant, Omnia AI, Deloitte Canada's AI Practice
 * September 2018 - June 2019
 * Developed a series of SQL scripts and stored procedures to identify and isolate irregularities in the credit card transactions of a major Canadian financial institution. Once identified, reconstructed the transaction histories of the impacted accounts correctly and remediated all accounts accordingly.
