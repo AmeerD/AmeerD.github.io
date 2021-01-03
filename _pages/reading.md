@@ -24,7 +24,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
 
-## Favourites 
+## Favourites and Recent Reads
+* Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
 * The Wanderers, Meg Howrey (August 2020)
 * The Night Circus, Erin Morgenstern
