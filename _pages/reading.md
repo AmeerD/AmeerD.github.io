@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I've been inspired by the recent trend of people posting their list favourite books. Currently I've just listed my favourites though in time hopefully this will morph into more of a timeline of my reading habits.
+I've been inspired by the recent trend of people posting their reading lists. Currently I've just listed my favourites though in time hopefully this will morph into more of a timeline of my reading habits.
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
