@@ -23,6 +23,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
+* The Spy Who Came in from the Cold, John le Carré
 
 ## Favourites and Recent Reads
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
