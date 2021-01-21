@@ -3,7 +3,6 @@ title: "Adjusted Bayesian Completion Rates (ABC) Estimation"
 collection: preprints
 permalink: /preprints/CSEye
 excerpt: 'Bilal Barakat, Ameer Dharamshi, Leontine Alkema, Manos Antoninis'
-date: 2021-01-21
 paperurl: 'https://osf.io/preprints/socarxiv/at368/'
 citation: 
 ---
