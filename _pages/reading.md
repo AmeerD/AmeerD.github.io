@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie
+* A Promised Land, Barack Obama
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
   * I read half of this one in an LPs course so at some point I want to read the other half
 
@@ -26,6 +26,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Spy Who Came in from the Cold, John le Carré
 
 ## Favourites and Recent Reads
+* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
 * The Wanderers, Meg Howrey (August 2020)
