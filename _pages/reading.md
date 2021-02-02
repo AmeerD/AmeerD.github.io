@@ -24,6 +24,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
+* Normal Accidents, Charles Perrow
 
 ## Favourites and Recent Reads
 * The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
