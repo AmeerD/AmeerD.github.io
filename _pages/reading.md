@@ -25,6 +25,9 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Normal Accidents, Charles Perrow
+* Under a White Sky: The Nature of the Future, Elizabeth Kolbert
+* How to Avoid a Climate Disaster, Bill Gates
+* The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 
 ## Favourites and Recent Reads
 * The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
