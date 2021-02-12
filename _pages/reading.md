@@ -28,6 +28,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
 * How to Avoid a Climate Disaster, Bill Gates
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
+* Global Warming: The Complete Briefing, John Houghton
 
 ## Favourites and Recent Reads
 * The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
