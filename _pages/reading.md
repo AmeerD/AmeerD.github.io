@@ -29,6 +29,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * How to Avoid a Climate Disaster, Bill Gates
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 * Global Warming: The Complete Briefing, John Houghton
+* Parable of the Sower, Kim Stanley
 
 ## Favourites and Recent Reads
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
