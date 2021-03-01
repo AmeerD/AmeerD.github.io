@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* A Promised Land, Barack Obama
+* Billion Dollar Whale, Tom Wright & Bradley Hope
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
   * I read half of this one in an LPs course so at some point I want to read the other half
 
@@ -32,6 +32,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Parable of the Sower, Kim Stanley
 
 ## Favourites and Recent Reads
+* A Promised Land, Barack Obama (February 2021)
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
 * The Wanderers, Meg Howrey (August 2020)
