@@ -14,6 +14,6 @@ Previously, I completed my BMath at the University of Waterloo where I studied a
 
 A Little About Me Personally
 ======
-Outside of my work, I like to bike in the summer, skate in the winter, and play squash whenever I can. I'm also into board games and love my Switch. Since coming back to Toronto, I've also been on a culinary adventure. One of my favourite things about this city is that there is always an interesting restaurant, tea shop, or dessert place to sample. Recommendations are always welcome :) 
+Outside of my work, I like to bike in the summer, skate in the winter, and play squash whenever I can. I'm also into board games, my switch, and really enjoy a good book. Since coming back to Toronto, I've also been on a culinary adventure. One of my favourite things about this city is that there is always an interesting restaurant, tea shop, or dessert place to sample. Recommendations are always welcome :) 
 
 Thanks for reading!
