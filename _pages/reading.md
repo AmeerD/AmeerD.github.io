@@ -30,6 +30,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
+* The Entrepreneurial State, Mariana Mazzucato
 
 ## Favourites and Recent Reads
 * A Promised Land, Barack Obama (February 2021)
