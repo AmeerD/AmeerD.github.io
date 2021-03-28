@@ -12,8 +12,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 
 ## Currently Reading
 * Fierce Kingdom, Gin Phillips
+* The Universe in a Single Atom, The Dalai Lama
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
-  * I read half of this one in an LPs course so at some point I want to read the other half
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -30,7 +30,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
 * The Entrepreneurial State, Mariana Mazzucato
-* The Universe in a Single Atom, The Dalai Lama
 
 ## Favourites and Recent Reads
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
