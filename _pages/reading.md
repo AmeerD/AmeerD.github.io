@@ -11,12 +11,11 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Billion Dollar Whale, Tom Wright & Bradley Hope
+* Fierce Kingdom, Gin Phillips
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
   * I read half of this one in an LPs course so at some point I want to read the other half
 
 ## The Backlog
-* Fierce Kingdom, Gin Phillips
 * The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
@@ -31,8 +30,10 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
 * The Entrepreneurial State, Mariana Mazzucato
+* The Universe in a Single Atom, The Dalai Lama
 
 ## Favourites and Recent Reads
+* Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
 * A Promised Land, Barack Obama (February 2021)
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
