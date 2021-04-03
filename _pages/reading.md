@@ -30,6 +30,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
 * The Entrepreneurial State, Mariana Mazzucato
+* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
+* The Code Breaker, Walter Isaacson
 
 ## Favourites and Recent Reads
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
