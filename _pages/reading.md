@@ -11,7 +11,6 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Fierce Kingdom, Gin Phillips
 * The Universe in a Single Atom, The Dalai Lama
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
@@ -34,6 +33,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Code Breaker, Walter Isaacson
 
 ## Favourites and Recent Reads
+* Fierce Kingdom, Gin Phillips (April 2021)
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
 * A Promised Land, Barack Obama (February 2021)
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
