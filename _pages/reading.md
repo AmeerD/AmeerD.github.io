@@ -31,6 +31,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Entrepreneurial State, Mariana Mazzucato
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
 * The Code Breaker, Walter Isaacson
+* The Premonition, Michael Lewis
 
 ## Favourites and Recent Reads
 * Fierce Kingdom, Gin Phillips (April 2021)
