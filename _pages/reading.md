@@ -32,6 +32,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
+* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 
 ## Favourites and Recent Reads
 * Fierce Kingdom, Gin Phillips (April 2021)
