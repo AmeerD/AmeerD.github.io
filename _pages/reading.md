@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* The Universe in a Single Atom, The Dalai Lama
+* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -29,12 +29,12 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
 * The Entrepreneurial State, Mariana Mazzucato
-* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 
 ## Favourites and Recent Reads
+* The Universe in a Single Atom, The Dalai Lama (May 2021)
 * Fierce Kingdom, Gin Phillips (April 2021)
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
 * A Promised Land, Barack Obama (February 2021)
