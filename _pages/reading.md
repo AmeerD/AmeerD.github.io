@@ -12,6 +12,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 
 ## Currently Reading
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
+* Astrophysics for People in a Hurry, Neil deGrasse Tyson
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -32,6 +33,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
+* Wind, Sand and Stars, Antoine de Saint-Exupéry
 
 ## Favourites and Recent Reads
 * The Universe in a Single Atom, The Dalai Lama (May 2021)
