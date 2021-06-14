@@ -12,7 +12,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 
 ## Currently Reading
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
-* Astrophysics for People in a Hurry, Neil deGrasse Tyson
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -36,6 +35,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
 
 ## Favourites and Recent Reads
+* Astrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)
 * The Universe in a Single Atom, The Dalai Lama (May 2021)
 * Fierce Kingdom, Gin Phillips (April 2021)
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
