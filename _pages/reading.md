@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg
+* How to Avoid a Climate Disaster, Bill Gates
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -24,7 +24,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Spy Who Came in from the Cold, John le Carré
 * Normal Accidents, Charles Perrow
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
-* How to Avoid a Climate Disaster, Bill Gates
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
@@ -36,16 +35,17 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Plutocrats, Chrystia Freeland
 
 ## Favourites and Recent Reads
+* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
 * Astrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)
 * The Universe in a Single Atom, The Dalai Lama (May 2021)
 * Fierce Kingdom, Gin Phillips (April 2021)
 * Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
 * A Promised Land, Barack Obama (February 2021)
+* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
 * Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
 * The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
 * The Wanderers, Meg Howrey (August 2020)
 * The Night Circus, Erin Morgenstern
-* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie
 * All The Light We Cannot See, Anthony Doerr
 * Station Eleven, Emily St. John Mandel
 * The Martian, Andy Weir
