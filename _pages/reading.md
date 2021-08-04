@@ -33,6 +33,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
 * Plutocrats, Chrystia Freeland
+* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 
 ## Favourites and Recent Reads
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
