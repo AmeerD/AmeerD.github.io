@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-I've been inspired by the recent trend of people posting their reading lists. Currently I've just listed my favourites though in time hopefully this will morph into more of a timeline of my reading habits.
+I've been inspired by the recent trend of people posting their reading lists. Currently I've just listed my favourites though in time hopefully this will morph into more of a timeline of my reading habits. The plan is to read (at least) one book a month and keep that going as long as I can.
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* How to Avoid a Climate Disaster, Bill Gates
+* And Then There Were None, Agatha Christie
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -35,7 +35,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Plutocrats, Chrystia Freeland
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 
-## Favourites and Recent Reads
+## The Timeline
+* How to Avoid a Climate Disaster, Bill Gates (August 2021)
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
 * Astrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)
 * The Universe in a Single Atom, The Dalai Lama (May 2021)
