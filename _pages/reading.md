@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* And Then There Were None, Agatha Christie
+* Normal Accidents, Charles Perrow
 * Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
 
 ## The Backlog
@@ -22,7 +22,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Glass Hotel, Emily St. John Mandel
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
-* Normal Accidents, Charles Perrow
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 * Global Warming: The Complete Briefing, John Houghton
@@ -36,6 +35,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 
 ## The Timeline
+* And Then There Were None, Agatha Christie (September 2021)
 * How to Avoid a Climate Disaster, Bill Gates (August 2021)
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
 * Astrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)
