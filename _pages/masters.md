@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below are the courses and TA positions I have taken (or am currently taking) at UofT.
+Below are the courses and TA positions I took while at UofT.
 
 ## Spring 2020
 * CHL 5212: Predictive Modelling in the Health Sciences
