@@ -11,8 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Normal Accidents, Charles Perrow
-* Introduction to Linear Optimization, Dimitris Bertsimas & John N. Tsitsiklis
+* Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -20,6 +19,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Educated, Tara Westover
 * 1Q84, Haruki Murakami
 * The Glass Hotel, Emily St. John Mandel
+* Normal Accidents, Charles Perrow
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
