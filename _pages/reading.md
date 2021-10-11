@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
+* What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -35,6 +35,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 
 ## The Timeline
+* Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
 * And Then There Were None, Agatha Christie (September 2021)
 * How to Avoid a Climate Disaster, Bill Gates (August 2021)
 * A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
