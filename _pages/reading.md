@@ -33,6 +33,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
 * Plutocrats, Chrystia Freeland
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
+* The Overstory, Richard Powers
 
 ## The Timeline
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
