@@ -37,6 +37,10 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * What We Owe the Future, Will MacAskill (coming in 2022?)
+* Fuzz: When Nature Breaks the Law, Mary Roach
+* Rationality: What It Is, Why It Seems Scarce, Why It Matters, Steven Pinker
+* The Loneliest Americans, Jay Caspian Kang
+* How to Pronounce Knife, Souvankham Thammavongsa
 
 ## The Timeline
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
