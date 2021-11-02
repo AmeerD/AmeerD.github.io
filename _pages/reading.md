@@ -41,6 +41,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Rationality: What It Is, Why It Seems Scarce, Why It Matters, Steven Pinker
 * The Loneliest Americans, Jay Caspian Kang
 * How to Pronounce Knife, Souvankham Thammavongsa
+* Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 
 ## The Timeline
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
