@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major
+* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -32,7 +32,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
 * Plutocrats, Chrystia Freeland
-* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
 * The Overstory, Richard Powers
 * Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
@@ -44,6 +43,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 
 ## The Timeline
+* What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
 * And Then There Were None, Agatha Christie (September 2021)
 * How to Avoid a Climate Disaster, Bill Gates (August 2021)
