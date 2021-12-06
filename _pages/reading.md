@@ -41,6 +41,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Loneliest Americans, Jay Caspian Kang
 * How to Pronounce Knife, Souvankham Thammavongsa
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
+* Utopia for Realists, Rutger Bregman
+* Humankind: A Hopeful History, Rutger Bregman
 
 ## The Timeline
 * What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)
