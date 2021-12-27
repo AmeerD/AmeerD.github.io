@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil
+* How to Pronounce Knife, Souvankham Thammavongsa
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -39,12 +39,12 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Fuzz: When Nature Breaks the Law, Mary Roach
 * Rationality: What It Is, Why It Seems Scarce, Why It Matters, Steven Pinker
 * The Loneliest Americans, Jay Caspian Kang
-* How to Pronounce Knife, Souvankham Thammavongsa
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 * Utopia for Realists, Rutger Bregman
 * Humankind: A Hopeful History, Rutger Bregman
 
 ## The Timeline
+* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)
 * What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
 * And Then There Were None, Agatha Christie (September 2021)
