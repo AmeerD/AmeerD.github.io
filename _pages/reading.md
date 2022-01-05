@@ -42,6 +42,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 * Utopia for Realists, Rutger Bregman
 * Humankind: A Hopeful History, Rutger Bregman
+* When We Cease to Understand the World, Benjamin Labatut
 
 ## The Timeline
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)
