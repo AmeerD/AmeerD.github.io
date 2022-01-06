@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* How to Pronounce Knife, Souvankham Thammavongsa
+* Plutocrats, Chrystia Freeland
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -31,7 +31,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Premonition, Michael Lewis
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
-* Plutocrats, Chrystia Freeland
 * The Overstory, Richard Powers
 * Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
@@ -45,6 +44,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * When We Cease to Understand the World, Benjamin Labatut
 
 ## The Timeline
+* How to Pronounce Knife, Souvankham Thammavongsa (January 2022)
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)
 * What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
