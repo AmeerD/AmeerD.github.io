@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* Utopia for Realists, Rutger Bregman
+* When We Cease to Understand the World, Benjamin Labatut
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -40,9 +40,9 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Loneliest Americans, Jay Caspian Kang
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 * Humankind: A Hopeful History, Rutger Bregman
-* When We Cease to Understand the World, Benjamin Labatut
 
 ## The Timeline
+* Utopia for Realists, Rutger Bregman (January 2022)
 * Plutocrats, Chrystia Freeland (January 2022)
 * How to Pronounce Knife, Souvankham Thammavongsa (January 2022)
 * Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)
