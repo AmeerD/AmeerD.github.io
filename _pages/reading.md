@@ -40,6 +40,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Loneliest Americans, Jay Caspian Kang
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
 * Humankind: A Hopeful History, Rutger Bregman
+* Who We Are and How We Got Here, David Reich
+* The WEIRDest People in the World, Joseph Henrich
 
 ## The Timeline
 * Utopia for Realists, Rutger Bregman (January 2022)
