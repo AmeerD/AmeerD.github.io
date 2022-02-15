@@ -42,6 +42,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Humankind: A Hopeful History, Rutger Bregman
 * Who We Are and How We Got Here, David Reich
 * The WEIRDest People in the World, Joseph Henrich
+* Empire of Pain, Patrick Radden Keefe
 
 ## The Timeline
 * Utopia for Realists, Rutger Bregman (January 2022)
