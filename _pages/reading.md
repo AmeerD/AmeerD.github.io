@@ -11,7 +11,7 @@ I've been inspired by the recent trend of people posting their reading lists. Cu
 Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
 
 ## Currently Reading
-* When We Cease to Understand the World, Benjamin Labatut
+* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -29,7 +29,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Entrepreneurial State, Mariana Mazzucato
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
-* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
 * The Overstory, Richard Powers
 * Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
@@ -45,6 +44,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Empire of Pain, Patrick Radden Keefe
 
 ## The Timeline
+* When We Cease to Understand the World, Benjamin Labatut (February 2022)
 * Utopia for Realists, Rutger Bregman (January 2022)
 * Plutocrats, Chrystia Freeland (January 2022)
 * How to Pronounce Knife, Souvankham Thammavongsa (January 2022)
