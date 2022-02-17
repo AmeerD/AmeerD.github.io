@@ -42,6 +42,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Who We Are and How We Got Here, David Reich
 * The WEIRDest People in the World, Joseph Henrich
 * Empire of Pain, Patrick Radden Keefe
+* Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
 
 ## The Timeline
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
