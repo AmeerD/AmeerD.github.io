@@ -43,6 +43,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The WEIRDest People in the World, Joseph Henrich
 * Empire of Pain, Patrick Radden Keefe
 * Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
+* The Anatomy of a Moment, Javier Cercas
+* Stolen Focus, Johann Hari
 
 ## The Timeline
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
