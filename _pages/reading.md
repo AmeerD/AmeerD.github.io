@@ -47,6 +47,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Stolen Focus, Johann Hari
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
+* When I'm Gone, Look For Me in the East, Quan Barry
 
 ## The Timeline
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
