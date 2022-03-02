@@ -12,6 +12,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 
 ## Currently Reading
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
+* Super Pumped: The Battle for Uber, Mike Isaac
+
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -48,7 +50,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * When I'm Gone, Look For Me in the East, Quan Barry
-* Super Pumped: The Battle for Uber, Mike Isaac
 
 ## The Timeline
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
