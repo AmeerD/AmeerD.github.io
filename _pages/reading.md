@@ -12,8 +12,6 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 
 ## Currently Reading
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
-* Super Pumped: The Battle for Uber, Mike Isaac
-
 
 ## The Backlog
 * The Wonder, Emma Donoghue
@@ -53,6 +51,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Old Woman with the Knife, Gu Byeong-Mo
 
 ## The Timeline
+* Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
 * Utopia for Realists, Rutger Bregman (January 2022)
 * Plutocrats, Chrystia Freeland (January 2022)
