@@ -49,6 +49,8 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * When I'm Gone, Look For Me in the East, Quan Barry
 * The Old Woman with the Knife, Gu Byeong-Mo
+* The Cloud Revolution, Mark P. Mills
+* The Power Law, Sebastian Mallaby
 
 ## The Timeline
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
