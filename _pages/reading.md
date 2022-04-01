@@ -52,6 +52,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
 * River of the Gods, Candice Millard
+* They Thought They Were Free, Milton Mayer
 
 ## The Timeline
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
