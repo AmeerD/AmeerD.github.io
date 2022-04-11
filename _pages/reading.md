@@ -55,6 +55,7 @@ Note: This is a no research paper zone, just leisure reading (and maybe a textbo
 * Tokyo Vice, Jake Adelstein
 * They Thought They Were Free, Milton Mayer
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
+* Sea of Tranquility, Emily St. John Mandel
 
 ## The Timeline
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
