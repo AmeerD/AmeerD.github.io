@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I've been inspired by the recent trend of people posting their reading lists. Currently I've just listed my favourites though in time hopefully this will morph into more of a timeline of my reading habits. The plan is to read (at least) one book a month and keep that going as long as I can.
-Note: This is a no research paper zone, just leisure reading (and maybe a textbook or two) :) 
+I've been inspired by the recent trend of people posting their reading lists so I'm joining in on the fun. The plan is to read (at least) one book a month and keep that going as long as I can.
+
+Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
