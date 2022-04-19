@@ -12,10 +12,10 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg
+* Tokyo Vice, Jake Adelstein
+* The Wonder, Emma Donoghue
 
 ## The Backlog
-* The Wonder, Emma Donoghue
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
 * 1Q84, Haruki Murakami
@@ -53,12 +53,12 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
 * River of the Gods, Candice Millard
-* Tokyo Vice, Jake Adelstein
 * They Thought They Were Free, Milton Mayer
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 * Sea of Tranquility, Emily St. John Mandel
 
 ## The Timeline
+* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
 * Utopia for Realists, Rutger Bregman (January 2022)
