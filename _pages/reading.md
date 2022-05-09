@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Tokyo Vice, Jake Adelstein
+* The Entrepreneurial State, Mariana Mazzucato
 * The Wonder, Emma Donoghue
 
 ## The Backlog
@@ -27,7 +27,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The New Climate War: The Fight to Take Back Our Planet, Michael Mann
 * Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
-* The Entrepreneurial State, Mariana Mazzucato
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
@@ -58,6 +57,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Sea of Tranquility, Emily St. John Mandel
 
 ## The Timeline
+* Tokyo Vice, Jake Adelstein (May 2022)
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
 * When We Cease to Understand the World, Benjamin Labatut (February 2022)
