@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Entrepreneurial State, Mariana Mazzucato
-* The Wonder, Emma Donoghue
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -57,6 +56,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Sea of Tranquility, Emily St. John Mandel
 
 ## The Timeline
+* The Wonder, Emma Donoghue (May 2022)
 * Tokyo Vice, Jake Adelstein (May 2022)
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)
 * Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
