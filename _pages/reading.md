@@ -54,6 +54,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * They Thought They Were Free, Milton Mayer
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 * Sea of Tranquility, Emily St. John Mandel
+* The Gene: An Intimate History, Siddhartha Mukherjee
+* The Emperor of All Maladies, Siddhartha Mukherjee
 
 ## The Timeline
 * The Wonder, Emma Donoghue (May 2022)
