@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Entrepreneurial State, Mariana Mazzucato
+* Sea of Tranquility, Emily St. John Mandel
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -53,7 +54,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * River of the Gods, Candice Millard
 * They Thought They Were Free, Milton Mayer
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
-* Sea of Tranquility, Emily St. John Mandel
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
 
