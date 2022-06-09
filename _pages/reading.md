@@ -12,7 +12,6 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Entrepreneurial State, Mariana Mazzucato
 * Sea of Tranquility, Emily St. John Mandel
 
 ## The Backlog
@@ -58,6 +57,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of All Maladies, Siddhartha Mukherjee
 
 ## The Timeline
+* The Entrepreneurial State, Mariana Mazzucato (June 2022)
 * The Wonder, Emma Donoghue (May 2022)
 * Tokyo Vice, Jake Adelstein (May 2022)
 * Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)
