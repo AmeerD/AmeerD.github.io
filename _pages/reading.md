@@ -12,7 +12,8 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Sea of Tranquility, Emily St. John Mandel
+* Empire of Pain, Patrick Radden Keefe
+* Kaikeyi, Vaishnavi Patel
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -40,7 +41,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * Humankind: A Hopeful History, Rutger Bregman
 * Who We Are and How We Got Here, David Reich
 * The WEIRDest People in the World, Joseph Henrich
-* Empire of Pain, Patrick Radden Keefe
 * Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
 * The Anatomy of a Moment, Javier Cercas
 * Stolen Focus, Johann Hari
@@ -57,6 +57,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of All Maladies, Siddhartha Mukherjee
 
 ## The Timeline
+* Sea of Tranquility, Emily St. John Mandel (June 2022)
 * The Entrepreneurial State, Mariana Mazzucato (June 2022)
 * The Wonder, Emma Donoghue (May 2022)
 * Tokyo Vice, Jake Adelstein (May 2022)
