@@ -1,6 +1,6 @@
 ---
-title: "Modelling Airbnb Listing Prices in Toronto"
-excerpt: "Bayesian hierarchical models using a Room Type top-level."
+title: "A Bayesian Hierarchical Model for Jointly Estimating Subnational Mortality for Mutliple Populations"
+excerpt: "Jointly Estimating Subnational Mortality for Multiple Populations."
 collection: portfolio
 ---
 
