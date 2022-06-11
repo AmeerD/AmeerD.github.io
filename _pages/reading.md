@@ -55,6 +55,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
+* The Ministry for the Future, Kim Stanley Robinson
 
 ## The Timeline
 * Sea of Tranquility, Emily St. John Mandel (June 2022)
