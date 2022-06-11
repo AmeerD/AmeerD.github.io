@@ -1,6 +1,6 @@
 ---
 title: "Modelling Airbnb Listing Prices in Toronto"
-excerpt: "Bayesian hierarchical models using a Room Type top-level.."
+excerpt: "Bayesian hierarchical models using a Room Type top-level."
 collection: portfolio
 ---
 
