@@ -6,4 +6,4 @@ collection: portfolio
 
 Coming soon to a portfolio page near you!
 
-[Document](https://github.com/AmeerD/Toronto-Airbnb-Price-Modeling/blob/master/Airbnb-Models.html)
+[Document](https://ameerd.github.io/files/Airbnb-Models.html)
