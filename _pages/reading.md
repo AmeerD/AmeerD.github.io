@@ -56,6 +56,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
+* The Candy House, Jennifer Egan
 
 ## The Timeline
 * Sea of Tranquility, Emily St. John Mandel (June 2022)
