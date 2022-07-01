@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Empire of Pain, Patrick Radden Keefe
+* Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 * Kaikeyi, Vaishnavi Patel
 
 ## The Backlog
@@ -52,7 +52,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Power Law, Sebastian Mallaby
 * River of the Gods, Candice Millard
 * They Thought They Were Free, Milton Mayer
-* Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
@@ -60,6 +59,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Candy House, Jennifer Egan
 
 ## The Timeline
+* Empire of Pain, Patrick Radden Keefe (June 2022)
 * Sea of Tranquility, Emily St. John Mandel (June 2022)
 * The Entrepreneurial State, Mariana Mazzucato (June 2022)
 * The Wonder, Emma Donoghue (May 2022)
