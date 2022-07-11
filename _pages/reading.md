@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
-* Kaikeyi, Vaishnavi Patel
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -59,6 +58,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Candy House, Jennifer Egan
 
 ## The Timeline
+* Kaikeyi, Vaishnavi Patel (July 2022)
 * Empire of Pain, Patrick Radden Keefe (June 2022)
 * Sea of Tranquility, Emily St. John Mandel (June 2022)
 * The Entrepreneurial State, Mariana Mazzucato (June 2022)
