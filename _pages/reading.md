@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
+* The Old Woman with the Knife, Gu Byeong-Mo
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -46,7 +47,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * When I'm Gone, Look For Me in the East, Quan Barry
-* The Old Woman with the Knife, Gu Byeong-Mo
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
 * River of the Gods, Candice Millard
@@ -56,6 +56,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Ministry for the Future, Kim Stanley Robinson
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
+* Youthquake: Why African Demography Should Matter to the World, Edward Paice
 
 ## The Timeline
 * Kaikeyi, Vaishnavi Patel (July 2022)
