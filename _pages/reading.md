@@ -57,6 +57,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
+* The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
+* Status: Why is it Everywhere? WHy Does it Matter?, Cecilia Ridgeway
 
 ## The Timeline
 * Kaikeyi, Vaishnavi Patel (July 2022)
