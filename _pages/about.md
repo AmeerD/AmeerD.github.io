@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Ameer. I am currently a PhD in Biostatistics Student at the University of Washington working as a Research Assistant under Professor Daniela Witten. Previously I worked for two years as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. Before then, I completed by Master of Science in Statistical Sciences at the University of Toronto where I focused on applied and computational statistics, Bayesian inference, simulation, and optimization. Typically, I find the intersection of statistical methodology development with tangible applications to be the most interesting research problems (for example developing new Bayesian models for education monitoring or investigating the relationships between climate change and health). 
+Hello, my name is Ameer. I am currently a PhD in Biostatistics Student at the University of Washington working as a Research Assistant under Professor Daniela Witten. Previously I worked for two years as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. Before then, I completed by Master of Science in Statistical Sciences at the University of Toronto where I focused on applied and computational statistics, Bayesian inference, simulation, and optimization. 
 
-Take a look at the [Portfolio](https://ameerd.github.io/portfolio) and [CV](https://ameerd.github.io/CV) tabs to learn a little more about my academic and professional experiences!
+Typically, I find interdisciplinary projects involving both statistical methodology development and tangible applications to be the most interesting research problems (for example developing new Bayesian models for education monitoring or investigating the relationships between climate change and health). Take a look at the [Portfolio](https://ameerd.github.io/portfolio) and [CV](https://ameerd.github.io/CV) tabs to learn a little more about my academic and professional experiences. I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
 
 A Little About Me Personally
 ======
