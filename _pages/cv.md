@@ -10,16 +10,26 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Master of Science in Statistical Sciences, University of Toronto, 2020 (expected)
+* PhD in Biostatistics, University of Washington, 2027 (expected)
+* Master of Science in Statistical Sciences, University of Toronto, 2020 
 * Bachelor of Mathematics, University of Waterloo, 2018
 
 ## Work experience
 Research & Data Consultant, Global Education Monitoring Report, UNESCO
-* June 2020 - Present
+* June 2020 - September 2022
 *	Developed the Adjusted Bayesian Completion Rate (ABC) model to estimate true education completion rates at the primary, lower secondary, and upper secondary levels in conjunction with a team of education experts and statisticians.
 *	This model is to be adopted as the UN standard for the monitoring of education completion under Sustainable Development Goal 4.
 *	Currently experimenting with a joint male and female model to study the effects of an additional hierarchy on parameter values and quality of results.
 *	Producing a dashboard to present model results and findings in a digestible format.
+
+Part-time Researcher
+* March 2021 - August 2022
+*	In conjunction with the Human Mortality Database, we are developing a framework to estimate mortality
+rates within subpopulations such as sex, race or ethnicity, or wealth at the subnational level. Our objective is
+to understand patterns in the relationships between subpopulations across age groups and over time.
+*	We have produced complete county-level, sex-specific mortality rate estimates for the US.
+*	Collaborated with a pharmaceuticals research organization on exploring the application of demographic
+models to rare disease prevalence estimation in low data contexts.
 
 Consultant, Omnia AI, Deloitte Canada's AI Practice
 * September 2018 - June 2019
