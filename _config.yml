@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ameer Dharamshi"
   avatar           : "profile8.jpg"
-  bio              : "Research & Data Consultant at UNESCO"
-  location         : "University of Toronto"
+  bio              : "PhD Student in Biostatistics"
+  location         : "University of Washington"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=DhpLxlQAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
