@@ -21,6 +21,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Conference Presentations
+{% for post in site.conferences reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Projects
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
