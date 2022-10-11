@@ -1,7 +1,7 @@
 ---
 title: "CSEye: A Proposed Solution for Accurate and Accessible One-to-Many Face Verification"
-collection: publications
-permalink: /publication/CSEye
+collection: conferences
+permalink: /conferences/CSEye
 excerpt: 'Ameer Dharamshi, Rosie Yuyan Zou'
 date: 2019-01-31
 venue: 'AAAI Student Abstract Track'
