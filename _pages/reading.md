@@ -59,6 +59,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? WHy Does it Matter?, Cecilia Ridgeway
+* The Midnight Library, Matt Haig
 
 ## The Timeline
 * Kaikeyi, Vaishnavi Patel (July 2022)
