@@ -53,6 +53,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * They Thought They Were Free, Milton Mayer
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
+* The Song of the Cell, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
