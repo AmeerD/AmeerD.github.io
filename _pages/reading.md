@@ -13,13 +13,12 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
-* Haven, Emma Donoghue
+* The Glass Hotel, Emily St. John Mandel
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
 * 1Q84, Haruki Murakami
-* The Glass Hotel, Emily St. John Mandel
 * Normal Accidents, Charles Perrow
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
@@ -63,6 +62,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Midnight Library, Matt Haig
 
 ## The Timeline
+* Haven, Emma Donoghue (November 2022)
 * The Old Woman with the Knife, Gu Byeong-Mo (October 2022)
 * Kaikeyi, Vaishnavi Patel (July 2022)
 * Empire of Pain, Patrick Radden Keefe (June 2022)
