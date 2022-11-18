@@ -60,6 +60,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? WHy Does it Matter?, Cecilia Ridgeway
 * The Midnight Library, Matt Haig
+* The Seven Moons of Maali Almeida, Shehan Karunatilaka
 
 ## The Timeline
 * Haven, Emma Donoghue (November 2022)
