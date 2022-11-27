@@ -62,7 +62,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Seven Moons of Maali Almeida, Shehan Karunatilaka
 
 ## The Timeline
-* The Glass Hotel, Emily St. John Mandel
+* The Glass Hotel, Emily St. John Mandel (November 2022)
 * Haven, Emma Donoghue (November 2022)
 * The Old Woman with the Knife, Gu Byeong-Mo (October 2022)
 * Kaikeyi, Vaishnavi Patel (July 2022)
