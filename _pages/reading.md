@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
-* The Glass Hotel, Emily St. John Mandel
+* The Ministry for the Future, Kim Stanley Robinson
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -53,7 +53,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
 * The Song of the Cell, Siddhartha Mukherjee
-* The Ministry for the Future, Kim Stanley Robinson
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
@@ -63,6 +62,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Seven Moons of Maali Almeida, Shehan Karunatilaka
 
 ## The Timeline
+* The Glass Hotel, Emily St. John Mandel
 * Haven, Emma Donoghue (November 2022)
 * The Old Woman with the Knife, Gu Byeong-Mo (October 2022)
 * Kaikeyi, Vaishnavi Patel (July 2022)
