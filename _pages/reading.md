@@ -60,6 +60,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
 * The Midnight Library, Matt Haig
 * The Seven Moons of Maali Almeida, Shehan Karunatilaka
+* The Three-Body Problem, Cixin Liu
 
 ## The Timeline
 * The Glass Hotel, Emily St. John Mandel (November 2022)
