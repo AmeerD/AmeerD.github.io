@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
-* The Ministry for the Future, Kim Stanley Robinson
+* The Seven Moons of Maali Almeida, Shehan Karunatilaka
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -55,12 +55,13 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Song of the Cell, Siddhartha Mukherjee
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
+* The Ministry for the Future, Kim Stanley Robinson
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
 * The Midnight Library, Matt Haig
-* The Seven Moons of Maali Almeida, Shehan Karunatilaka
 * The Three-Body Problem, Cixin Liu
+* The Sun Does Shine, Anthony Ray Hinton
 
 ## The Timeline
 * The Glass Hotel, Emily St. John Mandel (November 2022)
