@@ -62,6 +62,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Midnight Library, Matt Haig
 * The Three-Body Problem, Cixin Liu
 * The Sun Does Shine, Anthony Ray Hinton
+* I Contain Multitudes, Ed Yong
 
 ## The Timeline
 * The Glass Hotel, Emily St. John Mandel (November 2022)
