@@ -12,6 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
+* The Midnight Library, Matt Haig
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
 
 ## The Backlog
@@ -58,7 +59,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
-* The Midnight Library, Matt Haig
 * The Three-Body Problem, Cixin Liu
 * The Sun Does Shine, Anthony Ray Hinton
 * I Contain Multitudes, Ed Yong
