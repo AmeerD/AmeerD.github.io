@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Midnight Library, Matt Haig
-* Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery
+* Legends & Lattes, Travis Baldree
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -64,6 +64,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * I Contain Multitudes, Ed Yong
 
 ## The Timeline
+* Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery (December 2022)
 * The Seven Moons of Maali Almeida, Shehan Karunatilaka (December 2022)
 * The Glass Hotel, Emily St. John Mandel (November 2022)
 * Haven, Emma Donoghue (November 2022)
