@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Midnight Library, Matt Haig
+* The Apollo Murders, Chris Hadfield
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -63,6 +63,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * I Contain Multitudes, Ed Yong
 
 ## The Timeline
+* The Midnight Library, Matt Haig (December 2022)
 * Legends & Lattes, Travis Baldree (December 2022)
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery (December 2022)
 * The Seven Moons of Maali Almeida, Shehan Karunatilaka (December 2022)
