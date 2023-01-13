@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
+* Swimming Back to Trout River, Linda Rui Feng
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -61,6 +62,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Three-Body Problem, Cixin Liu
 * The Sun Does Shine, Anthony Ray Hinton
 * I Contain Multitudes, Ed Yong
+* Ghost Season, Fatin Abbas
 
 ## The Timeline
 * The Midnight Library, Matt Haig (December 2022)
