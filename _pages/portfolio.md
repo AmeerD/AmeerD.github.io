@@ -26,7 +26,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Projects
+## Other Projects
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
