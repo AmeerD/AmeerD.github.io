@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ABCR
 excerpt: 'Ameer Dharamshi, Bilal Barakat, Leontine Alkema, Manos Antoninis'
 date: 2022-09-25
-venue: 'RSS Series C'
+venue: 'JRSS Series C'
 paperurl: 'https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12595'
 citation: 
 ---
