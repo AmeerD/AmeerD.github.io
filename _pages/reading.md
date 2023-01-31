@@ -63,6 +63,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Sun Does Shine, Anthony Ray Hinton
 * I Contain Multitudes, Ed Yong
 * Ghost Season, Fatin Abbas
+* The Fractalist, Memoir of a Scientific Maverick, Benoit Mandelbrot
 
 ## The Timeline
 * The Midnight Library, Matt Haig (December 2022)
