@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
-* Swimming Back to Trout River, Linda Rui Feng
+* Babel, R.F. Kuang
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -66,6 +66,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 
 ## The Timeline
+* Swimming Back to Trout River, Linda Rui Feng (February 2023)
 * The Midnight Library, Matt Haig (December 2022)
 * Legends & Lattes, Travis Baldree (December 2022)
 * Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery (December 2022)
