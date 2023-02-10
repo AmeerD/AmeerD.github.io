@@ -64,6 +64,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * I Contain Multitudes, Ed Yong
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
+* The Covenant of Water, Abraham Verghese
 
 ## The Timeline
 * Swimming Back to Trout River, Linda Rui Feng (February 2023)
