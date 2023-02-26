@@ -65,6 +65,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
+* On a Night of a Thousand Stars, Andrea Yaryura Clark
 
 ## The Timeline
 * Swimming Back to Trout River, Linda Rui Feng (February 2023)
