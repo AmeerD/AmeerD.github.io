@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
-* Babel, R.F. Kuang
 
 ## The Backlog
 * The Starless Sea, Erin Morgenstern
@@ -68,6 +67,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * On a Night of a Thousand Stars, Andrea Yaryura Clark
 
 ## The Timeline
+* Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
 * Swimming Back to Trout River, Linda Rui Feng (February 2023)
 * The Midnight Library, Matt Haig (December 2022)
 * Legends & Lattes, Travis Baldree (December 2022)
