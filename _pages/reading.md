@@ -65,6 +65,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
 * On a Night of a Thousand Stars, Andrea Yaryura Clark
+* Remarkably Bright Creatures, Shelby Van Pelt
 
 ## The Timeline
 * Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
