@@ -60,6 +60,8 @@
       <p style="margin-top:5.625px;">Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p class="download" itemprop="description" style="margin-top: 2.8125px; margin-bottom: 16.875px; font-size: .75em;">Download <a href=" {{ post.paperurl }} ">here</a></p>
+    {% else %}
+      <p class="download" itemprop="description" style="margin-top: 0px; margin-bottom: 14.0625px;"></p>
     {% endif %}
 
   </article>
