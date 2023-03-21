@@ -59,7 +59,7 @@
     {% elsif post.citation %}
       <p style="margin-top:5.625;">Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p class="download" style="margin-top: 0px; margin-bottom: 11.25px;">Download <a href=" {{ post.paperurl }} ">here</a></p>
+      <p class="download" itemprop="description" style="margin-top: 0px; margin-bottom: 11.25px;">Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
 
   </article>
