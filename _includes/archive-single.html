@@ -43,7 +43,7 @@
     {% elsif post.collection == 'publications' %}
       <p class="page_publication" style="margin-top: 2.8125px; margin-bottom: 2.8125px; font-size: 1em;">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'conferences' %}
-      <p class="page_conferences" style="margin-top: 2.8125px; margin-bottom: 2.8125px; font-size: 1em;">Presented at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p class="page_conferences" style="margin-top: 2.8125px; margin-bottom: 2.8125px; font-size: 1em;">Presented at <i>{{ post.venue }}</i></p>
     {% elsif post.date and post.collection != 'preprints' %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %-d, %Y" }}</time></p>
     {% endif %}
