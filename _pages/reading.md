@@ -13,8 +13,32 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
+* I Contain Multitudes, Ed Yong
 
 ## The Backlog
+* When I'm Gone, Look For Me in the East, Quan Barry
+* The Cloud Revolution, Mark P. Mills
+* The Power Law, Sebastian Mallaby
+* River of the Gods, Candice Millard
+* They Thought They Were Free, Milton Mayer
+* The Gene: An Intimate History, Siddhartha Mukherjee
+* The Emperor of All Maladies, Siddhartha Mukherjee
+* The Song of the Cell, Siddhartha Mukherjee
+* You Can't Be Neutral on a Moving Train, Howard Zinn
+* The Candy House, Jennifer Egan
+* The Ministry for the Future, Kim Stanley Robinson
+* Youthquake: Why African Demography Should Matter to the World, Edward Paice
+* The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
+* Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
+* The Three-Body Problem, Cixin Liu
+* The Sun Does Shine, Anthony Ray Hinton
+* Ghost Season, Fatin Abbas
+* The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
+* The Covenant of Water, Abraham Verghese
+* On a Night of a Thousand Stars, Andrea Yaryura Clark
+* Remarkably Bright Creatures, Shelby Van Pelt
+* Yellowface, R.F. Kuang
+* River Spirit, Leila Aboulela
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
 * 1Q84, Haruki Murakami
@@ -44,30 +68,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * Stolen Focus, Johann Hari
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
-* When I'm Gone, Look For Me in the East, Quan Barry
-* The Cloud Revolution, Mark P. Mills
-* The Power Law, Sebastian Mallaby
-* River of the Gods, Candice Millard
-* They Thought They Were Free, Milton Mayer
-* The Gene: An Intimate History, Siddhartha Mukherjee
-* The Emperor of All Maladies, Siddhartha Mukherjee
-* The Song of the Cell, Siddhartha Mukherjee
-* You Can't Be Neutral on a Moving Train, Howard Zinn
-* The Candy House, Jennifer Egan
-* The Ministry for the Future, Kim Stanley Robinson
-* Youthquake: Why African Demography Should Matter to the World, Edward Paice
-* The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
-* Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
-* The Three-Body Problem, Cixin Liu
-* The Sun Does Shine, Anthony Ray Hinton
-* I Contain Multitudes, Ed Yong
-* Ghost Season, Fatin Abbas
-* The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
-* The Covenant of Water, Abraham Verghese
-* On a Night of a Thousand Stars, Andrea Yaryura Clark
-* Remarkably Bright Creatures, Shelby Van Pelt
-* Yellowface, R.F. Kuang
-* River Spirit, Leila Aboulela
 
 ## The Timeline
 * Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
