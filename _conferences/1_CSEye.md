@@ -3,6 +3,7 @@ title: "CSEye: A Proposed Solution for Accurate and Accessible One-to-Many Face 
 collection: conferences
 permalink: /conferences/CSEye
 excerpt: 'Ameer Dharamshi, Rosie Yuyan Zou'
+date: ''
 venue: 'AAAI-2019 Student Abstract Track'
 paperurl: 'https://aaai.org/ojs/index.php/AAAI/article/view/5103'
 citation: 
