@@ -3,8 +3,8 @@ title: "A Bayesian Hierarchical Model for Jointly Estimating Subnational Mortali
 collection: conferences
 permalink: /conferences/Subpop
 excerpt: 'Ameer Dharamshi, Monica Alexander, Celeste Winant, Magali Barbieri'
-date: ''
-venue: 'PAA 2022, 6th HMD Symposium, EPC 2022'
+date: 2022-04-17
+venue: 'PAA, 6th HMD Symposium, EPC'
 paperurl: 'https://submissions.mirasmart.com/Verify/PAA2022/Submission/Temp/radlwa1o4zi.pdf'
 citation: 
 ---
