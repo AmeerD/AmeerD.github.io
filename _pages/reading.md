@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
-* I Contain Multitudes, Ed Yong
 
 ## The Backlog
 * When I'm Gone, Look For Me in the East, Quan Barry
@@ -70,6 +69,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 
 ## The Timeline
+* I Contain Multitudes, Ed Yong (March 2023)
 * Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
 * Swimming Back to Trout River, Linda Rui Feng (February 2023)
 * The Midnight Library, Matt Haig (December 2022)
