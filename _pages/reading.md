@@ -67,6 +67,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Stolen Focus, Johann Hari
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
+* The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann
 
 ## The Timeline
 * I Contain Multitudes, Ed Yong (March 2023)
