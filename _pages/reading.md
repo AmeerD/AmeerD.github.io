@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
+* On a Night of a Thousand Stars, Andrea Yaryura Clark
 
 ## The Backlog
 * When I'm Gone, Look For Me in the East, Quan Barry
@@ -34,7 +35,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
-* On a Night of a Thousand Stars, Andrea Yaryura Clark
 * Remarkably Bright Creatures, Shelby Van Pelt
 * Yellowface, R.F. Kuang
 * River Spirit, Leila Aboulela
