@@ -3,7 +3,7 @@ title: "A Bayesian cohort model for estimating out-of-school rates and populatio
 excerpt: "Consolidating administrative enrollment counts with household survey data to produce complete and coherent out-of-school rate estimates."
 collection: preprints
 permalink: /preprints/OOS
-excerpt: 'Ameer Dharamshi, Manos Antoninis, Silvia Montoya, and Bilal Barakat'
+excerpt: 'Ameer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat'
 paperurl: 'https://osf.io/preprints/socarxiv/sqwb2/'
 citation: 
 ---
