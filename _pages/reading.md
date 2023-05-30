@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Apollo Murders, Chris Hadfield
-* On a Night of a Thousand Stars, Andrea Yaryura Clark
 
 ## The Backlog
 * When I'm Gone, Look For Me in the East, Quan Barry
@@ -70,6 +69,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann
 
 ## The Timeline
+* On a Night of a Thousand Stars, Andrea Yaryura Clark (May 2023)
 * I Contain Multitudes, Ed Yong (March 2023)
 * Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
 * Swimming Back to Trout River, Linda Rui Feng (February 2023)
