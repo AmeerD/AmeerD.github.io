@@ -67,6 +67,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * The Book that Wouldn't Burn, Mark Lawrence
+* Outlive: The Science and Art of Longevity, Peter Attia
 
 ## The Timeline
 * The Apollo Murders, Chris Hadfield (June 2023)
