@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann
+* Yellowface, R.F. Kuang
 
 ## The Backlog
 * When I'm Gone, Look For Me in the East, Quan Barry
@@ -35,7 +35,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
 * Remarkably Bright Creatures, Shelby Van Pelt
-* Yellowface, R.F. Kuang
 * River Spirit, Leila Aboulela
 * The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
@@ -70,6 +69,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Outlive: The Science and Art of Longevity, Peter Attia
 
 ## The Timeline
+* The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)
 * The Apollo Murders, Chris Hadfield (June 2023)
 * On a Night of a Thousand Stars, Andrea Yaryura Clark (May 2023)
 * I Contain Multitudes, Ed Yong (March 2023)
