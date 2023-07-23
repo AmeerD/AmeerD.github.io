@@ -12,13 +12,12 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Yellowface, R.F. Kuang
+* When I'm Gone, Look For Me in the East, Quan Barry
 
 ## The Backlog
-* When I'm Gone, Look For Me in the East, Quan Barry
+* River of the Gods, Candice Millard
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
-* River of the Gods, Candice Millard
 * They Thought They Were Free, Milton Mayer
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
@@ -69,6 +68,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Outlive: The Science and Art of Longevity, Peter Attia
 
 ## The Timeline
+* Yellowface, R.F. Kuang (July 2023)
 * The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)
 * The Apollo Murders, Chris Hadfield (June 2023)
 * On a Night of a Thousand Stars, Andrea Yaryura Clark (May 2023)
