@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * When I'm Gone, Look For Me in the East, Quan Barry
+* The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (read by Phoebe Judge)
 
 ## The Backlog
 * River of the Gods, Candice Millard
@@ -66,6 +67,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * The Book that Wouldn't Burn, Mark Lawrence
 * Outlive: The Science and Art of Longevity, Peter Attia
+* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 
 ## The Timeline
 * Yellowface, R.F. Kuang (July 2023)
