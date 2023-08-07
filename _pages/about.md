@@ -14,6 +14,6 @@ Typically, I find interdisciplinary projects involving both statistical methodol
 
 A Little About Me Personally
 ======
-Outside of my work, I like to hike and bike in the summer, skate in the winter, and play squash or tennis year-round. I'm also into board games, my switch, and really enjoy a good book. 
+Outside of my work, I like to hike and bike in the summer, skate in the winter, and play squash or tennis year-round. I'm also into baking, board games, and really enjoy a [good book](https://ameerd.github.io/reading). 
 
 Thanks for reading!
