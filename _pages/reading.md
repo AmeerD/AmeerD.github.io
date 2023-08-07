@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * When I'm Gone, Look For Me in the East, Quan Barry
-* The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (read by Phoebe Judge)
 
 ## The Backlog
 * River of the Gods, Candice Millard
@@ -70,6 +69,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 
 ## The Timeline
+* The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (audio by Phoebe Judge) (August 2023)
 * Yellowface, R.F. Kuang (July 2023)
 * The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)
 * The Apollo Murders, Chris Hadfield (June 2023)
