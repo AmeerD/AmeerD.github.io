@@ -12,6 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
+* The Sun Does Shine, Anthony Ray Hinton
 * When I'm Gone, Look For Me in the East, Quan Barry
 
 ## The Backlog
@@ -29,7 +30,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
 * The Three-Body Problem, Cixin Liu
-* The Sun Does Shine, Anthony Ray Hinton
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
@@ -70,6 +70,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
 
 ## The Timeline
+* Neverwhere, Neil Gaiman (August 2023)
 * The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (audio by Phoebe Judge) (August 2023)
 * Yellowface, R.F. Kuang (July 2023)
 * The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)
