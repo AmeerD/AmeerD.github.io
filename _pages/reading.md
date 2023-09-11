@@ -68,6 +68,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Outlive: The Science and Art of Longevity, Peter Attia
 * American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
+* Reykjavík: A Crime Story, Ragnar Jónasson and Katrín Jakobsdóttir
 
 ## The Timeline
 * Neverwhere, Neil Gaiman (August 2023)
