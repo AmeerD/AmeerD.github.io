@@ -13,4 +13,4 @@ Abstract: Understanding patterns in mortality across subpopulations is essential
 
 This project was presented at PAA 2022, the HMD 20th Anniversary Symposium, and EPC 2022.
 
-A preprint will be available shortly.
+The final version of this work can be found [here](https://ameerd.github.io/preprints/multigroupmort).
