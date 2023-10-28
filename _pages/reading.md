@@ -14,8 +14,10 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong)
 * When I'm Gone, Look For Me in the East, Quan Barry
+* The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge)
 
 ## The Backlog
+* The God of Small Things, Arundhati Roy
 * River of the Gods, Candice Millard
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
