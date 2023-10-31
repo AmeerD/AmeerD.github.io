@@ -12,7 +12,6 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong)
 * When I'm Gone, Look For Me in the East, Quan Barry
 * The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge)
 
@@ -73,6 +72,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Reykjavík: A Crime Story, Ragnar Jónasson and Katrín Jakobsdóttir
 
 ## The Timeline
+* The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong) (October 2023)
 * The Sun Does Shine, Anthony Ray Hinton (September 2023)
 * Neverwhere, Neil Gaiman (August 2023)
 * The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (audio by Phoebe Judge) (August 2023)
