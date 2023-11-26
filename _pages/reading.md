@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * When I'm Gone, Look For Me in the East, Quan Barry
-* The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge)
+* Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin
 
 ## The Backlog
 * The God of Small Things, Arundhati Roy
@@ -69,9 +69,9 @@ Note: This is a no research paper zone, just leisure reading :)
 * Outlive: The Science and Art of Longevity, Peter Attia
 * American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
-* Reykjavík: A Crime Story, Ragnar Jónasson and Katrín Jakobsdóttir
 
 ## The Timeline
+* The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge) (November 2023)
 * The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong) (October 2023)
 * The Sun Does Shine, Anthony Ray Hinton (September 2023)
 * Neverwhere, Neil Gaiman (August 2023)
