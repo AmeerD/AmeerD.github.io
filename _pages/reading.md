@@ -12,11 +12,10 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Murder is Easy, Agatha Christie
+* The God of Small Things, Arundhati Roy
 * When I'm Gone, Look For Me in the East, Quan Barry
 
 ## The Backlog
-* The God of Small Things, Arundhati Roy
 * River of the Gods, Candice Millard
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
@@ -71,6 +70,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
 
 ## The Timeline
+* Murder is Easy, Agatha Christie (December 2023)
 * Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin (December 2023)
 * The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge) (November 2023)
 * The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong) (October 2023)
