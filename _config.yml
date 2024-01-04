@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-CA"
 title                    : "Ameer Dharamshi"
 title_separator          : "-"
 name                     : &name "Ameer Dharamshi"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile10.jpeg"
   bio              : "PhD Student in Biostatistics"
   location         : "Seattle/Toronto"
-  employer         : "University of Washington
+  employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DhpLxlQAAAAJ&hl=en&oi=ao"
   email            :
