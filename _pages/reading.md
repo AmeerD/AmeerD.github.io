@@ -15,17 +15,27 @@ Note: This is a no research paper zone, just leisure reading :)
 * The God of Small Things, Arundhati Roy
 * When I'm Gone, Look For Me in the East, Quan Barry
 
-## The Backlog
+## On my Shelf
 * River of the Gods, Candice Millard
+* The Gene: An Intimate History, Siddhartha Mukherjee
+* The Song of the Cell, Siddhartha Mukherjee
+* The Ministry for the Future, Kim Stanley Robinson
+* Remarkably Bright Creatures, Shelby Van Pelt
+* The Starless Sea, Erin Morgenstern
+* 1Q84, Haruki Murakami
+* Normal Accidents, Charles Perrow
+* The Overstory, Richard Powers
+* The Precipice: Existential Risk and the Future of Humanity, Toby Ord
+* Humankind: A Hopeful History, Rutger Bregman
+* The Defector, Chris Hadfield
+
+## On my Watchlist
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
 * They Thought They Were Free, Milton Mayer
-* The Gene: An Intimate History, Siddhartha Mukherjee
 * The Emperor of All Maladies, Siddhartha Mukherjee
-* The Song of the Cell, Siddhartha Mukherjee
 * You Can't Be Neutral on a Moving Train, Howard Zinn
 * The Candy House, Jennifer Egan
-* The Ministry for the Future, Kim Stanley Robinson
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
 * Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
@@ -33,12 +43,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * The Covenant of Water, Abraham Verghese
-* Remarkably Bright Creatures, Shelby Van Pelt
 * River Spirit, Leila Aboulela
-* The Starless Sea, Erin Morgenstern
 * Educated, Tara Westover
-* 1Q84, Haruki Murakami
-* Normal Accidents, Charles Perrow
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
@@ -48,15 +54,11 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
-* The Overstory, Richard Powers
 * Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
-* The Precipice: Existential Risk and the Future of Humanity, Toby Ord
-* What We Owe the Future, Will MacAskill (coming in 2022?)
 * Fuzz: When Nature Breaks the Law, Mary Roach
 * Rationality: What It Is, Why It Seems Scarce, Why It Matters, Steven Pinker
 * The Loneliest Americans, Jay Caspian Kang
 * Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
-* Humankind: A Hopeful History, Rutger Bregman
 * Who We Are and How We Got Here, David Reich
 * The WEIRDest People in the World, Joseph Henrich
 * Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
@@ -69,7 +71,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
 
-## The Timeline
+## My Reading Timeline
+* Bookshops & Bonedust, Travis Baldree (January 2024)
 * Murder is Easy, Agatha Christie (December 2023)
 * Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin (December 2023)
 * The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge) (November 2023)
