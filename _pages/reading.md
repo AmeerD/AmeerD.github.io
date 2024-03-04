@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The God of Small Things, Arundhati Roy
-* When I'm Gone, Look For Me in the East, Quan Barry
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -72,6 +71,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
 
 ## My Reading Timeline
+* When I'm Gone, Look For Me in the East, Quan Barry (March 2024)
 * Bookshops & Bonedust, Travis Baldree (January 2024)
 * Murder is Easy, Agatha Christie (December 2023)
 * Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin (December 2023)
