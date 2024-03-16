@@ -29,6 +29,11 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 
 ## On my Watchlist
+* The Ministry of Utmost Happiness, Arundhati Roy
+* The Maniac, Benjamin Labatut,
+* The Bee Sting, Paul Murray,
+* The Antique Hunter's Guide to Murder, C.L. Miller
+* Demon Copperhead, Barbara Kingsolver
 * The Cloud Revolution, Mark P. Mills
 * The Power Law, Sebastian Mallaby
 * They Thought They Were Free, Milton Mayer
