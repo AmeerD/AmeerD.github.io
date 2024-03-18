@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/datathinning
 excerpt: 'Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten'
 date: 2024-03-15
-venue: 'JMLR (to appear in)'
+venue: 'JMLR'
 paperurl: 'https://arxiv.org/abs/2301.07276'
 citation: 
 ---
