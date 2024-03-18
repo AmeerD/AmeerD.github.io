@@ -29,6 +29,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 
 ## On my Watchlist
+* Burn Book: A Tech Love Story, Kara Swisher
 * The Ministry of Utmost Happiness, Arundhati Roy
 * The Maniac, Benjamin Labatut,
 * The Bee Sting, Paul Murray,
