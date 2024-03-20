@@ -27,6 +27,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
+* Dune, Frank Herbert
+* Dune Messiah, Frank Herbert
 
 ## On my Watchlist
 * Burn Book: A Tech Love Story, Kara Swisher
