@@ -45,7 +45,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Candy House, Jennifer Egan
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
-* Status: Why is it Everywhere? Why Does it Matter?, Cecilia Ridgeway
 * The Three-Body Problem, Cixin Liu
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
@@ -55,28 +54,22 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Answer Is … : Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
-* The New Climate War: The Fight to Take Back Our Planet, Michael Mann
-* Global Warming: The Complete Briefing, John Houghton
 * Parable of the Sower, Kim Stanley
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
-* Due Diligence: An Impertinent Inquiry Into Microfinance, David Roodman
 * Fuzz: When Nature Breaks the Law, Mary Roach
-* Rationality: What It Is, Why It Seems Scarce, Why It Matters, Steven Pinker
-* The Loneliest Americans, Jay Caspian Kang
-* Scarcity: Why Having Too Little Means So Much, Eldar Shafir & Sendhil Mullainathan
-* Who We Are and How We Got Here, David Reich
 * The WEIRDest People in the World, Joseph Henrich
 * Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
-* The Anatomy of a Moment, Javier Cercas
 * Stolen Focus, Johann Hari
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
-* The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities, Mancur Olson
 * The Book that Wouldn't Burn, Mark Lawrence
 * Outlive: The Science and Art of Longevity, Peter Attia
 * American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
 * The Underworld: Journeys to the Depths of the Ocean, Susan Casey
+* The Secret History, Donna Tartt
+* On Beauty, Zadie Smith
+* Loot, Tania James
 
 ## My Reading Timeline
 * When I'm Gone, Look For Me in the East, Quan Barry (March 2024)
