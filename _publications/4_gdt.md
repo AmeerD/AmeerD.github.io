@@ -1,9 +1,10 @@
 ---
 title: "Generalized Data Thinning Using Sufficient Statistics"
-excerpt: ""
-collection: preprints
-permalink: /preprints/gdt
+collection: publications
+permalink: /publications/gdt
 excerpt: 'Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien'
+date: 2024-05-03
+venue: 'To appear in JASA'
 paperurl: 'https://arxiv.org/abs/2303.12931'
 citation: 
 ---
