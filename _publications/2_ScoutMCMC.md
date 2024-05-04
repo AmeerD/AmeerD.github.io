@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/ScoutMCMC
 excerpt: 'Ameer Dharamshi, Vivian Ngo, Jeffrey S. Rosenthal'
 date: 2023-04-21
+published: T
 venue: 'Communications in Statistics - Simulation and Computation'
 paperurl: 'https://www.tandfonline.com/eprint/JSEMV7JJZ7WXDT6I8DAM/full?target=10.1080%2F03610918.2023.2199352'
 citation: 
