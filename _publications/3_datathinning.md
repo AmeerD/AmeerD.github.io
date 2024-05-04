@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/datathinning
 excerpt: 'Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten'
 date: 2024-04-07
-published: T
+published: 'T'
 venue: 'Journal of Machine Learning Research'
 paperurl: 'https://jmlr.org/papers/v25/23-0446.html'
 citation: 
