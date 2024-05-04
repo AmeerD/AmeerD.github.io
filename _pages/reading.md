@@ -31,6 +31,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Dune Messiah, Frank Herbert
 
 ## On my Watchlist
+* Exhalation, Ted Chiang
 * Burn Book: A Tech Love Story, Kara Swisher
 * The Ministry of Utmost Happiness, Arundhati Roy
 * The Maniac, Benjamin Labatut,
