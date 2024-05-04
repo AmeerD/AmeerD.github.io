@@ -55,7 +55,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description" style="margin-top:2.8125px; margin-bottom:2.8125px;"><p style="margin-top: 5.625px; margin-bottom: 5.625px;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+<!--
     {% if post.citation and post.paperurl %}
       <p style="margin-top:5.625px;">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
@@ -65,6 +65,6 @@
     {% else %}
       <p class="download" itemprop="description" style="margin-top: 0px; margin-bottom: 14.0625px;"></p>
     {% endif %}
-
+-->
   </article>
 </div>
