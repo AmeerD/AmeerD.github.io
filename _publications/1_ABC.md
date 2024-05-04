@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ABCR
 excerpt: 'Ameer Dharamshi, Bilal Barakat, Leontine Alkema, Manos Antoninis'
 date: 2022-09-25
-published: T
+published: 'T'
 venue: 'Journal of the Royal Statistical Society (Series C)'
 paperurl: 'https://academic.oup.com/jrsssc/article/71/5/1822/7073267'
 citation: 
