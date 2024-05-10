@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The God of Small Things, Arundhati Roy
+* Dune, Frank Herbert
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,7 +28,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
-* Dune, Frank Herbert
 * Dune Messiah, Frank Herbert
 
 ## On my Watchlist
