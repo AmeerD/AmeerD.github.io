@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The God of Small Things, Arundhati Roy
+* Remarkably Bright Creatures, Shelby Van Pelt
 * Dune, Frank Herbert
 
 ## On my Shelf
@@ -20,7 +20,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Song of the Cell, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
-* Remarkably Bright Creatures, Shelby Van Pelt
 * The Starless Sea, Erin Morgenstern
 * 1Q84, Haruki Murakami
 * Normal Accidents, Charles Perrow
@@ -73,6 +72,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* The God of Small Things, Arundhati Roy (June 2024)
 * When I'm Gone, Look For Me in the East, Quan Barry (March 2024)
 * Bookshops & Bonedust, Travis Baldree (January 2024)
 * Murder is Easy, Agatha Christie (December 2023)
