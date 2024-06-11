@@ -28,13 +28,13 @@ Note: This is a no research paper zone, just leisure reading :)
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
 * Dune Messiah, Frank Herbert
+* The Bee Sting, Paul Murray
 
 ## On my Watchlist
 * Exhalation, Ted Chiang
 * Burn Book: A Tech Love Story, Kara Swisher
 * The Ministry of Utmost Happiness, Arundhati Roy
 * The Maniac, Benjamin Labatut
-* The Bee Sting, Paul Murray
 * The Antique Hunter's Guide to Murder, C.L. Miller
 * Demon Copperhead, Barbara Kingsolver
 * The Cloud Revolution, Mark P. Mills
