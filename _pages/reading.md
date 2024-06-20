@@ -12,7 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Remarkably Bright Creatures, Shelby Van Pelt
+* Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 * Dune, Frank Herbert
 
 ## On my Shelf
@@ -29,6 +29,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 * Dune Messiah, Frank Herbert
 * The Bee Sting, Paul Murray
+* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Watchlist
 * Exhalation, Ted Chiang
@@ -72,6 +73,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Remarkably Bright Creatures, Shelby Van Pelt (June 2024)
 * The God of Small Things, Arundhati Roy (June 2024)
 * When I'm Gone, Look For Me in the East, Quan Barry (March 2024)
 * Bookshops & Bonedust, Travis Baldree (January 2024)
