@@ -31,6 +31,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Watchlist
+* There Are Rivers in the Sky, Elif Shafak
+* Roman Stories, Jhumpa Lahiri
 * Exhalation, Ted Chiang
 * Burn Book: A Tech Love Story, Kara Swisher
 * The Ministry of Utmost Happiness, Arundhati Roy
