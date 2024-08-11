@@ -33,6 +33,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Watchlist
+* Orbital, Samantha Harvey
+* Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
 * There Are Rivers in the Sky, Elif Shafak
 * Roman Stories, Jhumpa Lahiri
