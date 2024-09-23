@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Unaccustomed Earth, Jhumpa Lahiri
-
+* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -29,7 +29,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 * Dune Messiah, Frank Herbert
 * The Bee Sting, Paul Murray
-* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Watchlist
 * Orbital, Samantha Harvey
