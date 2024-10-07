@@ -29,12 +29,13 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 * Dune Messiah, Frank Herbert
 * The Bee Sting, Paul Murray
+* There Are Rivers in the Sky, Elif Shafak
 
 ## On my Watchlist
+* All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Orbital, Samantha Harvey
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
-* There Are Rivers in the Sky, Elif Shafak
 * Roman Stories, Jhumpa Lahiri
 * Interpreter of Maladies, Jhumpa Lahiri
 * Exhalation, Ted Chiang
