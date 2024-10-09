@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Unaccustomed Earth, Jhumpa Lahiri
-* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -79,6 +78,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
 * Dune, Frank Herbert (August 2024)
 * Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (July 2024)
 * Remarkably Bright Creatures, Shelby Van Pelt (June 2024)
