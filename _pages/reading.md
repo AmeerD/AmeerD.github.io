@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * Unaccustomed Earth, Jhumpa Lahiri
+* The Bee Sting, Paul Murray
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,7 +28,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
 * Dune Messiah, Frank Herbert
-* The Bee Sting, Paul Murray
 * There Are Rivers in the Sky, Elif Shafak
 
 ## On my Watchlist
