@@ -5,7 +5,7 @@ permalink: /publications/gdt
 excerpt: 'Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien'
 date: 2024-05-03
 published: 'F'
-venue: 'Journal of the American Statistical Association'
+venue: 'Journal of the American Statistical Association (Theory & Methods)'
 paperurl: 'https://arxiv.org/abs/2303.12931'
 citation: 
 ---
