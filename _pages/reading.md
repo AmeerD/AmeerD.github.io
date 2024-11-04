@@ -12,7 +12,6 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Unaccustomed Earth, Jhumpa Lahiri
 * The Bee Sting, Paul Murray
 
 ## On my Shelf
@@ -57,7 +56,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Covenant of Water, Abraham Verghese
 * River Spirit, Leila Aboulela
 * Educated, Tara Westover
-* The Answer Is … : Reflections on My Life, Alex Trebek
+* The Answer Is …: Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
 * Parable of the Sower, Kim Stanley
@@ -78,6 +77,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Unaccustomed Earth, Jhumpa Lahiri (November 2024)
 * More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
 * Dune, Frank Herbert (August 2024)
 * Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (July 2024)
