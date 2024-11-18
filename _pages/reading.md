@@ -77,6 +77,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Appointment with Death, Agatha Christie (November 2024)
 * Unaccustomed Earth, Jhumpa Lahiri (November 2024)
 * More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
 * Dune, Frank Herbert (August 2024)
