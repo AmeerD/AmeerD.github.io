@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
+* Orbital, Samantha Harvey
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -31,7 +32,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## On my Watchlist
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
-* Orbital, Samantha Harvey
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
 * Roman Stories, Jhumpa Lahiri
