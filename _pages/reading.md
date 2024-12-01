@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
-* Orbital, Samantha Harvey
+* Dune Messiah, Frank Herbert
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,7 +27,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
-* Dune Messiah, Frank Herbert
 * There Are Rivers in the Sky, Elif Shafak
 
 ## On my Watchlist
@@ -77,6 +76,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Orbital, Samantha Harvey (November 2024)
 * Appointment with Death, Agatha Christie (November 2024)
 * Unaccustomed Earth, Jhumpa Lahiri (November 2024)
 * More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
