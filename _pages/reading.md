@@ -14,6 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * Dune Messiah, Frank Herbert
+* There Are Rivers in the Sky, Elif Shafak
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,7 +28,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
-* There Are Rivers in the Sky, Elif Shafak
 
 ## On my Watchlist
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
