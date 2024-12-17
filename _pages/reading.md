@@ -12,8 +12,9 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* Unaccustomed Earth, Jhumpa Lahiri
-* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa)
+* The Bee Sting, Paul Murray
+* Dune Messiah, Frank Herbert
+* There Are Rivers in the Sky, Elif Shafak
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,16 +28,14 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
-* Dune Messiah, Frank Herbert
-* The Bee Sting, Paul Murray
 
 ## On my Watchlist
-* Orbital, Samantha Harvey
+* All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
-* There Are Rivers in the Sky, Elif Shafak
 * Roman Stories, Jhumpa Lahiri
 * Interpreter of Maladies, Jhumpa Lahiri
+* The Tainted Cup, Robert Jackson Bennett
 * Exhalation, Ted Chiang
 * Burn Book: A Tech Love Story, Kara Swisher
 * The Ministry of Utmost Happiness, Arundhati Roy
@@ -57,7 +56,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Covenant of Water, Abraham Verghese
 * River Spirit, Leila Aboulela
 * Educated, Tara Westover
-* The Answer Is … : Reflections on My Life, Alex Trebek
+* The Answer Is …: Reflections on My Life, Alex Trebek
 * The Spy Who Came in from the Cold, John le Carré
 * Under a White Sky: The Nature of the Future, Elizabeth Kolbert
 * Parable of the Sower, Kim Stanley
@@ -78,6 +77,10 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Orbital, Samantha Harvey (November 2024)
+* Appointment with Death, Agatha Christie (November 2024)
+* Unaccustomed Earth, Jhumpa Lahiri (November 2024)
+* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
 * Dune, Frank Herbert (August 2024)
 * Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (July 2024)
 * Remarkably Bright Creatures, Shelby Van Pelt (June 2024)

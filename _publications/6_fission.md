@@ -1,9 +1,11 @@
 ---
 title: "Discussion of 'Data fission: splitting a single data point'"
-excerpt: ""
-collection: preprints
-permalink: /preprints/fission
+collection: publications
+permalink: /publications/fission
 excerpt: 'Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten, Jacob Bien'
+date: 2024-11-03
+published: 'F'
+venue: 'Journal of the American Statistical Association (Theory & Methods)'
 paperurl: 'https://arxiv.org/abs/2409.03069'
 citation: 
 ---
