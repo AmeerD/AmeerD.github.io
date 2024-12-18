@@ -30,6 +30,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 
 ## On my Watchlist
+* One Hundred Years of Solitude, Gabriel García Márquez
+* In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
