@@ -13,7 +13,6 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
-* Dune Messiah, Frank Herbert
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -79,6 +78,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Dune Messiah, Frank Herbert (December 2024)
 * There Are Rivers in the Sky, Elif Shafak (December 2024)
 * Orbital, Samantha Harvey (November 2024)
 * Appointment with Death, Agatha Christie (November 2024)
