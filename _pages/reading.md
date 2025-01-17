@@ -35,6 +35,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
 * Roman Stories, Jhumpa Lahiri
+* Annihilation, Jeff VanderMeer
 * Interpreter of Maladies, Jhumpa Lahiri
 * The Tainted Cup, Robert Jackson Bennett
 * Exhalation, Ted Chiang
