@@ -13,6 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
+* Intermezzo, Sally Rooney
 
 ## On my Shelf
 * River of the Gods, Candice Millard
