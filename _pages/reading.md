@@ -26,9 +26,9 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
+* On Earth We're Briefly Gorgeous, Ocean Vuong
 
 ## On my Watchlist
-* On Earth We're Briefly Gorgeous, Ocean Vuong
 * One Hundred Years of Solitude, Gabriel García Márquez
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
