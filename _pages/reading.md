@@ -13,7 +13,7 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
-* Intermezzo, Sally Rooney
+* On Earth We're Briefly Gorgeous, Ocean Vuong
 
 ## On my Shelf
 * River of the Gods, Candice Millard
@@ -27,7 +27,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
-* On Earth We're Briefly Gorgeous, Ocean Vuong
 
 ## On my Watchlist
 * One Hundred Years of Solitude, Gabriel García Márquez
@@ -80,6 +79,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* Intermezzo, Sally Rooney (January 2025)
 * Dune Messiah, Frank Herbert (December 2024)
 * There Are Rivers in the Sky, Elif Shafak (December 2024)
 * Orbital, Samantha Harvey (November 2024)
