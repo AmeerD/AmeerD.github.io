@@ -29,6 +29,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Defector, Chris Hadfield
 
 ## On my Watchlist
+* Frozen in Time, Owen Beattie and John Geiger
 * One Hundred Years of Solitude, Gabriel García Márquez
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
