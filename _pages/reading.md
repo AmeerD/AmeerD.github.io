@@ -35,6 +35,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
 * A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
+* Doctored: Fraud, Arrogance, and Tragedy in the Quest to Cure Alzheimer's, Charles Piller
 * Roman Stories, Jhumpa Lahiri
 * Annihilation, Jeff VanderMeer
 * Interpreter of Maladies, Jhumpa Lahiri
