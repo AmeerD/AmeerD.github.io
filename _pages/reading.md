@@ -13,10 +13,9 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
-* On Earth We're Briefly Gorgeous, Ocean Vuong
+* River of the Gods, Candice Millard
 
 ## On my Shelf
-* River of the Gods, Candice Millard
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Song of the Cell, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
@@ -27,6 +26,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Defector, Chris Hadfield
+* The Covenant of Water, Abraham Verghese
 
 ## On my Watchlist
 * Frozen in Time, Owen Beattie and John Geiger
@@ -57,7 +57,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Three-Body Problem, Cixin Liu
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
-* The Covenant of Water, Abraham Verghese
 * River Spirit, Leila Aboulela
 * Educated, Tara Westover
 * The Answer Is …: Reflections on My Life, Alex Trebek
@@ -81,6 +80,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* On Earth We're Briefly Gorgeous, Ocean Vuong (February 2025)
 * Intermezzo, Sally Rooney (January 2025)
 * Dune Messiah, Frank Herbert (December 2024)
 * There Are Rivers in the Sky, Elif Shafak (December 2024)
