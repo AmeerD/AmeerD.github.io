@@ -13,11 +13,11 @@ Note: This is a no research paper zone, just leisure reading :)
 
 ## Currently Reading
 * The Bee Sting, Paul Murray
-* River of the Gods, Candice Millard
+* The Song of the Cell, Siddhartha Mukherjee
+* The Defector, Chris Hadfield
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
-* The Song of the Cell, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
 * The Starless Sea, Erin Morgenstern
 * 1Q84, Haruki Murakami
@@ -25,7 +25,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Overstory, Richard Powers
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
-* The Defector, Chris Hadfield
 * The Covenant of Water, Abraham Verghese
 
 ## On my Watchlist
@@ -80,6 +79,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* River of the Gods, Candice Millard (March 2025)
 * On Earth We're Briefly Gorgeous, Ocean Vuong (February 2025)
 * Intermezzo, Sally Rooney (January 2025)
 * Dune Messiah, Frank Herbert (December 2024)
