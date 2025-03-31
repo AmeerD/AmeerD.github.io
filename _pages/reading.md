@@ -14,7 +14,6 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* The Defector, Chris Hadfield
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
@@ -79,6 +78,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 
 ## My Reading Timeline
+* The Defector, Chris Hadfield (March 2025)
 * River of the Gods, Candice Millard (March 2025)
 * On Earth We're Briefly Gorgeous, Ocean Vuong (February 2025)
 * Intermezzo, Sally Rooney (January 2025)
