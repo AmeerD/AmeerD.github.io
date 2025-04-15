@@ -6,7 +6,7 @@ excerpt: 'Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Wi
 date: 2024-06-13
 published: 'T'
 venue: 'Journal of the American Statistical Association (Theory & Methods)'
-paperurl: 'https://arxiv.org/abs/2303.12931'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2353948'
 citation: 
 ---
 
