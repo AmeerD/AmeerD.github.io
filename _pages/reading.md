@@ -25,9 +25,9 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Covenant of Water, Abraham Verghese
+* Frozen in Time, Owen Beattie and John Geiger
 
 ## On my Watchlist
-* Frozen in Time, Owen Beattie and John Geiger
 * One Hundred Years of Solitude, Gabriel García Márquez
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
