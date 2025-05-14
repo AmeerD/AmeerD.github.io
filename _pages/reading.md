@@ -14,6 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
+* One Hundred Years of Solitude, Gabriel García Márquez
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
@@ -26,9 +27,13 @@ Note: This is a no research paper zone, just leisure reading :)
 * Humankind: A Hopeful History, Rutger Bregman
 * The Covenant of Water, Abraham Verghese
 * Frozen in Time, Owen Beattie and John Geiger
+* The Three-Body Problem, Cixin Liu
+* The Dark Forest, Cixin Liu
+* Death's End, Cixin Liu
+* Hero of the Empire, Candice Millard
+* Katabasis, R.F. Kuang (pre-ordered for August 2026!)
 
 ## On my Watchlist
-* One Hundred Years of Solitude, Gabriel García Márquez
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
@@ -52,7 +57,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Candy House, Jennifer Egan
 * Youthquake: Why African Demography Should Matter to the World, Edward Paice
 * The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
-* The Three-Body Problem, Cixin Liu
 * Ghost Season, Fatin Abbas
 * The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
 * River Spirit, Leila Aboulela
@@ -76,6 +80,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Secret History, Donna Tartt
 * On Beauty, Zadie Smith
 * Loot, Tania James
+* Run with the Wind, Shion Miura
+* The Will of the Many, James Islington
 
 ## My Reading Timeline
 * The Defector, Chris Hadfield (March 2025)
