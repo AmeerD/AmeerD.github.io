@@ -3,7 +3,7 @@ title: "Generalized Data Thinning Using Sufficient Statistics"
 collection: publications
 permalink: /publications/gdt
 excerpt: 'Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien'
-date: 2024-06-13
+date: 2025-03-13
 published: 'T'
 venue: 'Journal of the American Statistical Association (Theory & Methods)'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2353948'
