@@ -1,9 +1,12 @@
 ---
 title: "Decomposing Gaussians with Unknown Covariance"
 excerpt: ""
-collection: preprints
-permalink: /preprints/gaussians
+collection: publications
+permalink: /publications/gaussians
 excerpt: 'Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten'
+date: 2025-06-16
+published: 'F'
+venue: 'Biometrika'
 paperurl: 'https://arxiv.org/abs/2409.11497'
 citation: 
 ---
