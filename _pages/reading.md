@@ -84,6 +84,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* Hero of the Empire, Candice Millard (June 2025)
 * The Defector, Chris Hadfield (March 2025)
 * River of the Gods, Candice Millard (March 2025)
 * On Earth We're Briefly Gorgeous, Ocean Vuong (February 2025)
