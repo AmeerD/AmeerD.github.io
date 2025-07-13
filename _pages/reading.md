@@ -14,9 +14,10 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* One Hundred Years of Solitude, Gabriel García Márquez
+* The Dragon Republic, R.F. Kuang
 
 ## On my Shelf
+* One Hundred Years of Solitude, Gabriel García Márquez
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
 * The Starless Sea, Erin Morgenstern
@@ -84,6 +85,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* The Poppy War, R.F. Kuang (July 2025)
 * Hero of the Empire, Candice Millard (June 2025)
 * The Defector, Chris Hadfield (March 2025)
 * River of the Gods, Candice Millard (March 2025)
