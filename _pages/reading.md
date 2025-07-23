@@ -14,7 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* The Dragon Republic, R.F. Kuang
+* The Dragon Republic, R.F. Kuang 
 
 ## On my Shelf
 * One Hundred Years of Solitude, Gabriel García Márquez
@@ -32,7 +32,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Dark Forest, Cixin Liu
 * Death's End, Cixin Liu
 * Hero of the Empire, Candice Millard
-* Katabasis, R.F. Kuang (pre-ordered for August 2026!)
+* Katabasis, R.F. Kuang 
 
 ## On my Watchlist
 * In Praise of Shadows, Junichiro Tanizaki
