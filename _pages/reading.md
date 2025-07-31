@@ -14,7 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* The Dragon Republic, R.F. Kuang 
+* Convenience Store Woman, Sayaka Murata
 
 ## On my Shelf
 * One Hundred Years of Solitude, Gabriel García Márquez
@@ -27,14 +27,13 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Covenant of Water, Abraham Verghese
-* Frozen in Time, Owen Beattie and John Geiger
 * The Three-Body Problem, Cixin Liu
 * The Dark Forest, Cixin Liu
 * Death's End, Cixin Liu
-* Hero of the Empire, Candice Millard
-* Katabasis, R.F. Kuang 
+* Katabasis, R.F. Kuang
 
 ## On my Watchlist
+* Frozen in Time, Owen Beattie and John Geiger
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
@@ -85,6 +84,8 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* The Burning God, R.F. Kuang (July 2025)
+* The Dragon Republic, R.F. Kuang (July 2025)
 * The Poppy War, R.F. Kuang (July 2025)
 * Hero of the Empire, Candice Millard (June 2025)
 * The Defector, Chris Hadfield (March 2025)
