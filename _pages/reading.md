@@ -31,6 +31,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Dark Forest, Cixin Liu
 * Death's End, Cixin Liu
 * Katabasis, R.F. Kuang
+* The Emperor of Gladness, Ocean Vuong
 
 ## On my Watchlist
 * Frozen in Time, Owen Beattie and John Geiger
