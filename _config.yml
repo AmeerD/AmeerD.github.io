@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Ameer Dharamshi"
 title_separator          : "-"
 name                     : &name "Ameer Dharamshi"
-description              : &description "PhD in Biostatistics Student at the University of Washington"
+description              : &description "Biostatistics PhD Candidate at the University of Washington"
 url                      : https://ameerd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AmeerD/AmeerD.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ameer Dharamshi"
   avatar           : "profile12.jpeg"
-  bio              : "PhD Student in Biostatistics at the University of Washington"
+  bio              : "Biostatistics PhD Candidate at the University of Washington"
   location         : "Seattle/Toronto"
   employer         : 
   pubmed           : 
