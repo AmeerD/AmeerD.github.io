@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Ameer. I am a third-year PhD Student in the Department of Biostatistics at the University of Washington supervised by Professors Daniela Witten and Jon Wakefield. We are working on developing statistical tools for small sample and correlated data problems with applications in demography and global health. Previously I worked for two years as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. Before then, I completed my Master of Science in Statistical Sciences at the University of Toronto where I focused on applied and computational statistics, Bayesian inference, simulation, and optimization. 
+Hello, my name is Ameer. I am a fourth-year PhD Candidate in the Department of Biostatistics at the University of Washington supervised by Professors Daniela Witten and Jon Wakefield. My research focuses on developing strategies for selective inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes. I also actively work on collaborative projects in demography and global development that aim to estimate various population indicators (e.g., mortality, fertility, and school completion rates) at national and subnational levels.
 
-Typically, I find interdisciplinary projects involving both statistical methodology development and tangible applications to be the most interesting research problems. Take a look at my [Portfolio](https://ameerd.github.io/portfolio) and [CV](https://ameerd.github.io/files/Ameer_D_CV_March_2023.pdf) to learn a little more about my academic and professional experiences. I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
+Previously, I worked as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. I completed my Master of Science in Statistical Sciences at the University of Toronto and my Bachelor of Mathematics at the University of Waterloo. 
+
+For more about my academic and professional experiences, please see my [Portfolio](https://ameerd.github.io/portfolio) and [CV](https://ameerd.github.io/files/Ameer_D_CV.pdf). I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
 
 A Little About Me Personally
 ======
-Outside of my work, I like to hike and bike in the summer, skate in the winter, and play squash year-round. I'm also into baking, tennis, board games, and really enjoy a [good book](https://ameerd.github.io/readinglist).  
+Outside of my work, I like to ice skate, play squash, run, bake, and really enjoy a [good book](https://ameerd.github.io/readinglist).  
 
 Thanks for reading!
