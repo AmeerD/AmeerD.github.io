@@ -14,10 +14,9 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* Convenience Store Woman, Sayaka Murata
+* One Hundred Years of Solitude, Gabriel García Márquez
 
 ## On my Shelf
-* One Hundred Years of Solitude, Gabriel García Márquez
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
 * The Starless Sea, Erin Morgenstern
@@ -85,6 +84,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* Convenience Store Woman, Sayaka Murata (August 2025)
 * The Burning God, R.F. Kuang (July 2025)
 * The Dragon Republic, R.F. Kuang (July 2025)
 * The Poppy War, R.F. Kuang (July 2025)
