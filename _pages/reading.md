@@ -31,9 +31,10 @@ Note: This is a no research paper zone, just leisure reading :)
 * Death's End, Cixin Liu
 * Katabasis, R.F. Kuang
 * The Emperor of Gladness, Ocean Vuong
+* Frozen in Time, Owen Beattie and John Geiger
 
 ## On my Watchlist
-* Frozen in Time, Owen Beattie and John Geiger
+* Lost Horizon, James Hilton
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
 * Creation Lake, Rachel Kushner
