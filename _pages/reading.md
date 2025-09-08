@@ -14,7 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* One Hundred Years of Solitude, Gabriel García Márquez
+* Katabasis, R.F. Kuang
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
@@ -29,7 +29,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Three-Body Problem, Cixin Liu
 * The Dark Forest, Cixin Liu
 * Death's End, Cixin Liu
-* Katabasis, R.F. Kuang
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
 
@@ -50,8 +49,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Maniac, Benjamin Labatut
 * The Antique Hunter's Guide to Murder, C.L. Miller
 * Demon Copperhead, Barbara Kingsolver
-* The Cloud Revolution, Mark P. Mills
-* The Power Law, Sebastian Mallaby
 * They Thought They Were Free, Milton Mayer
 * The Emperor of All Maladies, Siddhartha Mukherjee
 * You Can't Be Neutral on a Moving Train, Howard Zinn
@@ -69,10 +66,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Code Breaker, Walter Isaacson
 * The Premonition, Michael Lewis
 * Wind, Sand and Stars, Antoine de Saint-Exupéry
-* Fuzz: When Nature Breaks the Law, Mary Roach
-* The WEIRDest People in the World, Joseph Henrich
 * Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
-* Stolen Focus, Johann Hari
 * The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
 * The Book that Wouldn't Burn, Mark Lawrence
 * Outlive: The Science and Art of Longevity, Peter Attia
@@ -85,6 +79,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* One Hundred Years of Solitude, Gabriel García Márquez
 * Convenience Store Woman, Sayaka Murata (August 2025)
 * The Burning God, R.F. Kuang (July 2025)
 * The Dragon Republic, R.F. Kuang (July 2025)
