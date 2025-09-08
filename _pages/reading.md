@@ -79,7 +79,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
-* One Hundred Years of Solitude, Gabriel García Márquez
+* One Hundred Years of Solitude, Gabriel García Márquez (September 2025)
 * Convenience Store Woman, Sayaka Murata (August 2025)
 * The Burning God, R.F. Kuang (July 2025)
 * The Dragon Republic, R.F. Kuang (July 2025)
