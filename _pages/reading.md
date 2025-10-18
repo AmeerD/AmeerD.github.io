@@ -14,7 +14,6 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
-* Katabasis, R.F. Kuang
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
@@ -79,6 +78,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* Katabasis, R.F. Kuang (October 2025)
 * One Hundred Years of Solitude, Gabriel García Márquez (September 2025)
 * Convenience Store Woman, Sayaka Murata (August 2025)
 * The Burning God, R.F. Kuang (July 2025)
