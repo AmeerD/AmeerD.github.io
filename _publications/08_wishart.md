@@ -1,9 +1,12 @@
 ---
 title: "Thinning a Wishart Random Matrix"
 excerpt: ""
-collection: preprints
-permalink: /preprints/wishart
+collection: publications
+permalink: /publications/wishart
 excerpt: 'Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien'
+date: 2025-10-28
+published: 'F'
+venue: 'Biometrika'
 paperurl: 'https://arxiv.org/abs/2502.09957'
 citation: 
 ---
