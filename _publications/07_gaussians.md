@@ -7,7 +7,7 @@ excerpt: 'Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten
 date: 2025-06-16
 published: 'F'
 venue: 'Biometrika'
-paperurl: 'https://arxiv.org/abs/2409.11497'
+paperurl: 'https://doi.org/10.1093/biomet/asaf057'
 citation: 
 ---
 
