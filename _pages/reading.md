@@ -12,7 +12,6 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Bee Sting, Paul Murray
 * The Song of the Cell, Siddhartha Mukherjee
 
 ## On my Shelf
@@ -78,6 +77,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Will of the Many, James Islington
 
 ## My Reading Timeline
+* The Bee Sting, Paul Murray (November 2025)
 * Katabasis, R.F. Kuang (October 2025)
 * One Hundred Years of Solitude, Gabriel García Márquez (September 2025)
 * Convenience Store Woman, Sayaka Murata (August 2025)
