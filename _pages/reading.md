@@ -12,6 +12,7 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
+* The Bone Clocks, David Mitchell
 * The Song of the Cell, Siddhartha Mukherjee
 
 ## On my Shelf
@@ -29,6 +30,9 @@ Note: This is a no research paper zone, just leisure reading :)
 * Death's End, Cixin Liu
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
+* The Island of Missing Trees, Elif Shafak
+* The Secret History, Donna Tartt
+* Days at the Torunka Café, Satoshi Yagisawa
 
 ## On my Watchlist
 * Lost Horizon, James Hilton
