@@ -1,9 +1,12 @@
 ---
 title: "Small Area Estimation of Education Levels in Low- and Middle-Income Countries"
 excerpt: ""
-collection: preprints
-permalink: /preprints/attainment
+collection: publications
+permalink: /publications/attainment
 excerpt: 'Yunhan Wu, Ameer Dharamshi, Jon Wakefield'
+date: 2025-12-23
+published: 'F'
+venue: Annals of Applied Statistics
 paperurl: 'https://arxiv.org/abs/2502.07946'
 citation: 
 ---
