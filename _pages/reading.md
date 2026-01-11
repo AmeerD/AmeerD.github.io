@@ -77,6 +77,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Loot, Tania James
 * Run with the Wind, Shion Miura
 * The Will of the Many, James Islington
+* Foster, Claire Keegan
 
 ## My Reading Timeline
 * The Island of Missing Trees, Elif Shafak (December 2025)
