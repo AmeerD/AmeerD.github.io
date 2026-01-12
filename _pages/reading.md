@@ -12,7 +12,9 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
+* The Overstory, Richard Powers
 * The Song of the Cell, Siddhartha Mukherjee
+* Days at the Torunka Café, Satoshi Yagisawa
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
@@ -20,7 +22,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Starless Sea, Erin Morgenstern
 * 1Q84, Haruki Murakami
 * Normal Accidents, Charles Perrow
-* The Overstory, Richard Powers
 * The Precipice: Existential Risk and the Future of Humanity, Toby Ord
 * Humankind: A Hopeful History, Rutger Bregman
 * The Covenant of Water, Abraham Verghese
@@ -30,7 +31,6 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
 * The Secret History, Donna Tartt
-* Days at the Torunka Café, Satoshi Yagisawa
 
 ## On my Watchlist
 * Lost Horizon, James Hilton
@@ -80,6 +80,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Foster, Claire Keegan
 
 ## My Reading Timeline
+* Pick a Colour, Souvankham Thammavongsa (January 2026)
 * The Island of Missing Trees, Elif Shafak (December 2025)
 * The Bone Clocks, David Mitchell (December 2025)
 * The Bee Sting, Paul Murray (November 2025)
