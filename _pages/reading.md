@@ -14,7 +14,7 @@ Note: This is a no research paper zone, just leisure reading :)
 ## Currently Reading
 * The Overstory, Richard Powers
 * The Song of the Cell, Siddhartha Mukherjee
-* Days at the Torunka Café, Satoshi Yagisawa
+* Days at the Torunka Café, Satoshi Yagisawa 
 
 ## On my Shelf
 * The Gene: An Intimate History, Siddhartha Mukherjee
