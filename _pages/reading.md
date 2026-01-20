@@ -31,9 +31,9 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
 * The Secret History, Donna Tartt
-* On the Calculation of Volume, Solvej Balle
 
 ## On my Watchlist
+* On the Calculation of Volume, Solvej Balle
 * Lost Horizon, James Hilton
 * In Praise of Shadows, Junichiro Tanizaki
 * All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
