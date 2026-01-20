@@ -31,6 +31,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
 * The Secret History, Donna Tartt
+* On the Calculation of Volume, Solvej Balle
 
 ## On my Watchlist
 * Lost Horizon, James Hilton
