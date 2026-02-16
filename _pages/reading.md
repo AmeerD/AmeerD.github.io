@@ -12,11 +12,11 @@ I've been inspired by the recent trend of people posting their reading lists so 
 Note: This is a no research paper zone, just leisure reading :) 
 
 ## Currently Reading
-* The Overstory, Richard Powers
+* The Vegetarian, Han Kang
 * The Song of the Cell, Siddhartha Mukherjee
-* Days at the Torunka Café, Satoshi Yagisawa 
 
 ## On my Shelf
+* The Bastard of Istanbul, Elif Shafak
 * The Gene: An Intimate History, Siddhartha Mukherjee
 * The Ministry for the Future, Kim Stanley Robinson
 * The Starless Sea, Erin Morgenstern
@@ -31,6 +31,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * The Emperor of Gladness, Ocean Vuong
 * Frozen in Time, Owen Beattie and John Geiger
 * The Secret History, Donna Tartt
+* Days at the Torunka Café, Satoshi Yagisawa 
 
 ## On my Watchlist
 * On the Calculation of Volume, Solvej Balle
@@ -81,6 +82,7 @@ Note: This is a no research paper zone, just leisure reading :)
 * Foster, Claire Keegan
 
 ## My Reading Timeline
+* The Overstory, Richard Powers (February 2026)
 * Pick a Colour, Souvankham Thammavongsa (January 2026)
 * The Island of Missing Trees, Elif Shafak (December 2025)
 * The Bone Clocks, David Mitchell (December 2025)
