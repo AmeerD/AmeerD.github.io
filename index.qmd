@@ -34,7 +34,7 @@ I am a fourth-year PhD Candidate in the Department of Biostatistics at the Unive
 
 Previously, I worked as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. I completed my Master of Science in Statistical Sciences at the University of Toronto and my Bachelor of Mathematics at the University of Waterloo. 
 
-For more about my academic and professional experiences, please see my [Portfolio](pages/publications.qmd) and [CV](pages/cv.qmd). I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
+For more about my academic and professional experiences, please see my [Research](pages/publications.qmd) and [CV](pages/cv.qmd). I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
 
 Outside of my work, I like to ice skate, play squash, run, bake, and really enjoy a [good book](pages/reading.qmd).
 
