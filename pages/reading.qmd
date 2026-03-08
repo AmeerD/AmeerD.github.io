@@ -1,0 +1,184 @@
+---
+layout: archive
+title: "Reading List"
+permalink: /readinglist/
+author_profile: true
+---
+
+<!-- {% include base_path %} -->
+
+I've been inspired by the recent trend of people posting their reading lists so I'm joining in on the fun. The plan is to read (at least) one book a month and keep that going as long as I can.
+
+Note: This is a no research paper zone, just leisure reading :) 
+
+## Currently Reading
+* Frozen in Time, Owen Beattie and John Geiger
+* The Song of the Cell, Siddhartha Mukherjee
+
+## On my Shelf
+* The Gene: An Intimate History, Siddhartha Mukherjee
+* The Ministry for the Future, Kim Stanley Robinson
+* The Starless Sea, Erin Morgenstern
+* 1Q84, Haruki Murakami
+* Normal Accidents, Charles Perrow
+* The Precipice: Existential Risk and the Future of Humanity, Toby Ord
+* Humankind: A Hopeful History, Rutger Bregman
+* The Covenant of Water, Abraham Verghese
+* The Three-Body Problem, Cixin Liu
+* The Dark Forest, Cixin Liu
+* Death's End, Cixin Liu
+* The Emperor of Gladness, Ocean Vuong
+* The Secret History, Donna Tartt
+* Days at the Torunka Café, Satoshi Yagisawa 
+
+## On my Watchlist
+* On the Calculation of Volume, Solvej Balle
+* Lost Horizon, James Hilton
+* In Praise of Shadows, Junichiro Tanizaki
+* All That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield
+* Creation Lake, Rachel Kushner
+* A Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb
+* Doctored: Fraud, Arrogance, and Tragedy in the Quest to Cure Alzheimer's, Charles Piller
+* Roman Stories, Jhumpa Lahiri
+* Annihilation, Jeff VanderMeer
+* Interpreter of Maladies, Jhumpa Lahiri
+* The Tainted Cup, Robert Jackson Bennett
+* Exhalation, Ted Chiang
+* Burn Book: A Tech Love Story, Kara Swisher
+* The Ministry of Utmost Happiness, Arundhati Roy
+* The Maniac, Benjamin Labatut
+* The Antique Hunter's Guide to Murder, C.L. Miller
+* Demon Copperhead, Barbara Kingsolver
+* They Thought They Were Free, Milton Mayer
+* The Emperor of All Maladies, Siddhartha Mukherjee
+* You Can't Be Neutral on a Moving Train, Howard Zinn
+* The Candy House, Jennifer Egan
+* Youthquake: Why African Demography Should Matter to the World, Edward Paice
+* The Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens
+* Ghost Season, Fatin Abbas
+* The Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot
+* River Spirit, Leila Aboulela
+* Educated, Tara Westover
+* The Answer Is …: Reflections on My Life, Alex Trebek
+* The Spy Who Came in from the Cold, John le Carré
+* Under a White Sky: The Nature of the Future, Elizabeth Kolbert
+* Parable of the Sower, Kim Stanley
+* The Code Breaker, Walter Isaacson
+* The Premonition, Michael Lewis
+* Wind, Sand and Stars, Antoine de Saint-Exupéry
+* Walking the Bowl, Chris Lockhard & Daniel Mulilo Chama
+* The Anarchy: The Relentless Rise of the East India Company, William Dalrymple
+* The Book that Wouldn't Burn, Mark Lawrence
+* American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin
+* The Underworld: Journeys to the Depths of the Ocean, Susan Casey
+* The Secret History, Donna Tartt
+* On Beauty, Zadie Smith
+* Loot, Tania James
+* Run with the Wind, Shion Miura
+* The Will of the Many, James Islington
+* Foster, Claire Keegan
+* The Hour of the Star, Clarice Lispector
+* Agua Viva, Clarice Lispector
+* The Passion According to G.H., Clarice Lispector
+
+## My Reading Timeline
+
+### 2026
+
+* The Bastard of Istanbul, Elif Shafak (March 2026)
+* The Vegetarian, Han Kang (February 2026)
+* The Overstory, Richard Powers (February 2026)
+* Pick a Colour, Souvankham Thammavongsa (January 2026)
+
+### 2025
+
+* The Island of Missing Trees, Elif Shafak (December 2025)
+* The Bone Clocks, David Mitchell (December 2025)
+* The Bee Sting, Paul Murray (November 2025)
+* Katabasis, R.F. Kuang (October 2025)
+* One Hundred Years of Solitude, Gabriel García Márquez (September 2025)
+* Convenience Store Woman, Sayaka Murata (August 2025)
+* The Burning God, R.F. Kuang (July 2025)
+* The Dragon Republic, R.F. Kuang (July 2025)
+* The Poppy War, R.F. Kuang (July 2025)
+* Hero of the Empire, Candice Millard (June 2025)
+* The Defector, Chris Hadfield (March 2025)
+* River of the Gods, Candice Millard (March 2025)
+* On Earth We're Briefly Gorgeous, Ocean Vuong (February 2025)
+* Intermezzo, Sally Rooney (January 2025)
+
+### 2024
+
+* Dune Messiah, Frank Herbert (December 2024)
+* There Are Rivers in the Sky, Elif Shafak (December 2024)
+* Orbital, Samantha Harvey (November 2024)
+* Appointment with Death, Agatha Christie (November 2024)
+* Unaccustomed Earth, Jhumpa Lahiri (November 2024)
+* More Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)
+* Dune, Frank Herbert (August 2024)
+* Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (July 2024)
+* Remarkably Bright Creatures, Shelby Van Pelt (June 2024)
+* The God of Small Things, Arundhati Roy (June 2024)
+* When I'm Gone, Look For Me in the East, Quan Barry (March 2024)
+* Bookshops & Bonedust, Travis Baldree (January 2024)
+
+### 2023
+
+* Murder is Easy, Agatha Christie (December 2023)
+* Tomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin (December 2023)
+* The Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge) (November 2023)
+* The Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong) (October 2023)
+* The Sun Does Shine, Anthony Ray Hinton (September 2023)
+* Neverwhere, Neil Gaiman (August 2023)
+* The Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (audio by Phoebe Judge) (August 2023)
+* Yellowface, R.F. Kuang (July 2023)
+* The Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)
+* The Apollo Murders, Chris Hadfield (June 2023)
+* On a Night of a Thousand Stars, Andrea Yaryura Clark (May 2023)
+* I Contain Multitudes, Ed Yong (March 2023)
+* Babel, or the Necessity of Violence, R.F. Kuang (March 2023)
+* Swimming Back to Trout River, Linda Rui Feng (February 2023)
+
+### 2022
+
+* The Midnight Library, Matt Haig (December 2022)
+* Legends & Lattes, Travis Baldree (December 2022)
+* Happy City: Transforming Our Lives Through Urban Design, Charles Montgomery (December 2022)
+* The Seven Moons of Maali Almeida, Shehan Karunatilaka (December 2022)
+* The Glass Hotel, Emily St. John Mandel (November 2022)
+* Haven, Emma Donoghue (November 2022)
+* The Old Woman with the Knife, Gu Byeong-Mo (October 2022)
+* Kaikeyi, Vaishnavi Patel (July 2022)
+* Empire of Pain, Patrick Radden Keefe (June 2022)
+* Sea of Tranquility, Emily St. John Mandel (June 2022)
+* The Entrepreneurial State, Mariana Mazzucato (June 2022)
+* The Wonder, Emma Donoghue (May 2022)
+* Tokyo Vice, Jake Adelstein (May 2022)
+* Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)
+* Super Pumped: The Battle for Uber, Mike Isaac (March 2022)
+* When We Cease to Understand the World, Benjamin Labatut (February 2022)
+* Utopia for Realists, Rutger Bregman (January 2022)
+* Plutocrats, Chrystia Freeland (January 2022)
+* How to Pronounce Knife, Souvankham Thammavongsa (January 2022)
+
+### 2021 and earlier
+
+* Numbers Don't Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)
+* What To Expect When You're Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)
+* Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)
+* And Then There Were None, Agatha Christie (September 2021)
+* How to Avoid a Climate Disaster, Bill Gates (August 2021)
+* A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)
+* Astrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)
+* The Universe in a Single Atom, The Dalai Lama (May 2021)
+* Fierce Kingdom, Gin Phillips (April 2021)
+* Billion Dollar Whale, Tom Wright & Bradley Hope (March 2021)
+* A Promised Land, Barack Obama (February 2021)
+* The Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)
+* Causal Inference, Miguel A. Hernán & James M. Robins (January 2021)
+* The Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)
+* The Wanderers, Meg Howrey (August 2020)
+* The Night Circus, Erin Morgenstern
+* All The Light We Cannot See, Anthony Doerr
+* Station Eleven, Emily St. John Mandel
+* The Martian, Andy Weir

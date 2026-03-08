@@ -2,51 +2,76 @@
 title: Publications
 ---
 
-You may want to divide your publications by type (preprints, journal articles, others) or by theme.
+<!-- ## Research Summary -->
 
-## Sorted by type
+
+
+<!-- You may want to divide your publications by type (preprints, journal articles, others) or by theme. -->
+
+<!-- ## Sorted by type -->
 
 ::: {.content-hidden unless-format="markdown"}
 pubs_v1_update_start
 :::
-### Preprints
+## Preprints
 
-**Last, F.**, Author (Preprint). [Paper 4](https://arxiv.org/).
+**Ameer Dharamshi**, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. 
 
-### Journal Articles
+**Ameer Dharamshi**, Peter Gao, Jon Wakefield. (2026+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. [[arXiv](https://arxiv.org/abs/2502.11032)]
 
-**Last, F.** (2026). [Paper 3](https://doi.org). *Journal 3*.
+**Ameer Dharamshi**, Manos Antoninis, Silvia Montoya, Bilal Barakat
+. (2026+) A Bayesian cohort model for estimating out-of-school rates and populations. [[SocArXiv](https://osf.io/preprints/socarxiv/sqwb2_v1)]
 
-Author, **Last, F.** (2024). [Paper 2](https://github.com). *Journal 2*.
+## Publications
 
-**Last, F.**, Author (2023). [Paper 1](https://www.wikipedia.org/). *Journal 1*.
+Yunhan Wu, **Ameer Dharamshi**, Jon Wakefield. (2026+) Small Area Estimation of Education Levels in Low- and Middle-Income Countries. To appear in *Annals of Applied Statistics*  [[paper](https://arxiv.org/pdf/2502.07946)]
 
-::: {.content-hidden unless-format="markdown"}
-pubs_v1_update_end
-:::
+**Ameer Dharamshi**, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025+) Thinning a Wishart Random Matrix. To appear in *Biometrika*  [[paper](https://doi.org/10.1093/biomet/asaf081)]
 
-## Sorted by theme
+**Ameer Dharamshi**, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten. (2025) Decomposing Gaussians with Unknown Covariance. *Biometrika* 113 (1) [[paper](https://doi.org/10.1093/biomet/asaf057)]
 
-::: {.content-hidden unless-format="markdown"}
-pubs_v2_update_start
-:::
-### Statistical Methods
+Anna Neufeld, **Ameer Dharamshi**, Lucy L. Gao, Daniela Witten, Jacob Bien
+. (2025) Discussion of 'Data fission: splitting a single data point'. *Journal of the American Statistical Association (Theory & Methods)* 120 (549), 151-157 [[paper](https://doi.org/10.1080/01621459.2024.2421998)]
 
-**Last, F.**, Author (Preprint). [Paper 4](https://arxiv.org/).
+**Ameer Dharamshi**, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025) Generalized Data Thinning Using Sufficient Statistics. *Journal of the American Statistical Association (Theory & Methods)* 120 (549), 511-523 [[paper](https://doi.org/10.1080/01621459.2024.2353948)]
 
-**Last, F.**, Author (2023). [Paper 1](https://www.wikipedia.org/). *Journal 1*.
+**Ameer Dharamshi**, Monica Alexander, Celeste Winant, Magali Barbieri. (2025) Jointly Estimating Subnational Mortality for Multiple Populations. *Demographic Research* 52, 71-110 [[paper](https://www.jstor.org/stable/48822780)]
 
-### Public Health and Medicine
+**Ameer Dharamshi**, Vivian Ngo, Jeffrey S. Rosenthal
+. (2024) Sampling by Divergence Minimization. *Communications in Statistics - Simulation and Computation* 53 (12), 6071-6095 [[paper](https://doi.org/10.1080/03610918.2023.2199352)]
 
-Author, **Last, F.** (2024). [Paper 2](https://github.com). *Journal 2*.
+Anna Neufeld, **Ameer Dharamshi**, Lucy L. Gao, Daniela Witten
+. (2024) Data thinning for convolution-closed distributions. *Journal of Machine Learning Research* 25 (57), 1-35 [[paper](https://www.jmlr.org/papers/volume25/23-0446/23-0446.pdf)]
 
-### Other
+**Ameer Dharamshi**, Bilal Barakat, Leontine Alkema, Manos Antoninis
+. (2022) A Bayesian model for estimating Sustainable Development Goal indicator 4.1.2: School completion rates. *Journal of the Royal Statistical Society (Series C)* 71 (5), 1822-1864 [[paper](https://doi.org/10.1111/rssc.12595)]
 
-**Last, F.** (2026). [Paper 3](https://doi.org). *Journal 3*.
+<!-- ::: {.content-hidden unless-format="markdown"} -->
+<!-- pubs_v1_update_end -->
+<!-- ::: -->
 
-::: {.content-hidden unless-format="markdown"}
-pubs_v2_update_end
-:::
+<!-- ## Sorted by theme -->
+
+<!-- ::: {.content-hidden unless-format="markdown"} -->
+<!-- pubs_v2_update_start -->
+<!-- ::: -->
+<!-- ### Statistical Methods -->
+
+<!-- **Last, F.**, Author (Preprint). [Paper 4](https://arxiv.org/). -->
+
+<!-- **Last, F.**, Author (2023). [Paper 1](https://www.wikipedia.org/). *Journal 1*. -->
+
+<!-- ### Public Health and Medicine -->
+
+<!-- Author, **Last, F.** (2024). [Paper 2](https://github.com). *Journal 2*. -->
+
+<!-- ### Other -->
+
+<!-- **Last, F.** (2026). [Paper 3](https://doi.org). *Journal 3*. -->
+
+<!-- ::: {.content-hidden unless-format="markdown"} -->
+<!-- pubs_v2_update_end -->
+<!-- ::: -->
 
 
 

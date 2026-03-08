@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "posts/post2.html",
-    "href": "posts/post2.html",
-    "title": "More Musings",
-    "section": "",
-    "text": "The quick brown fox jumps over the lazy dog"
-  },
-  {
-    "objectID": "pages/teaching.html",
-    "href": "pages/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Instructor\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY, Course materials\n\n\nTeaching Assistant\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY\n\n\nTeaching Related Service\nInstitution\n\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY through YYYY-YY\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY and YYYY-YY\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY\n\nInstitution\n\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY\n\n\n\nOther\nCourse name, Institution, Fall/Spring/Winter/Summer, Grader/Tutor/etc\nCourse name, Institution, Fall/Spring/Winter/Summer, Grader/Tutor/etc"
-  },
-  {
     "objectID": "pages/resources.html",
     "href": "pages/resources.html",
     "title": "Resources",
@@ -21,95 +7,39 @@
     "text": "Sentence about how the below resources have been helpful to you, or may be useful to others starting out in the field, etc\n\nSurviving and thriving in grad school\n\n\nBest practices for data analyses\n\n\nMoving towards equity in research and teaching\n\n\nJob market resources\n\n\netc"
   },
   {
-    "objectID": "pages/rec_lists.html",
-    "href": "pages/rec_lists.html",
-    "title": "Personal Rec List",
+    "objectID": "pages/reading.html",
+    "href": "pages/reading.html",
+    "title": "Reading List",
     "section": "",
-    "text": "If you want to know a little bit more about me or are ever in the (place) area, here is a list of recommendations for media, food, and places to visit.\n\nFavorite Fiction Books\n\nbook 1\nbook 2\n\n\n\nFavorite Albums\n\nalbum a\nalbum b\n\n\n\nFavoriate Shows and Movies\n\n\nBest Ice Cream in Location\n\n\nBest Places to Visit in Location\n\n\nBest non-technical books about my field"
+    "text": "I’ve been inspired by the recent trend of people posting their reading lists so I’m joining in on the fun. The plan is to read (at least) one book a month and keep that going as long as I can.\nNote: This is a no research paper zone, just leisure reading :)"
   },
   {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "You may want to divide your publications by type (preprints, journal articles, others) or by theme."
+    "objectID": "pages/reading.html#currently-reading",
+    "href": "pages/reading.html#currently-reading",
+    "title": "Reading List",
+    "section": "Currently Reading",
+    "text": "Currently Reading\n\nFrozen in Time, Owen Beattie and John Geiger\nThe Song of the Cell, Siddhartha Mukherjee"
   },
   {
-    "objectID": "pages/publications.html#sorted-by-type",
-    "href": "pages/publications.html#sorted-by-type",
-    "title": "Publications",
-    "section": "Sorted by type",
-    "text": "Sorted by type\n\nPreprints\nLast, F., Author (Preprint). Paper 4.\n\n\nJournal Articles\nLast, F. (2026). Paper 3. Journal 3.\nAuthor, Last, F. (2024). Paper 2. Journal 2.\nLast, F., Author (2023). Paper 1. Journal 1."
+    "objectID": "pages/reading.html#on-my-shelf",
+    "href": "pages/reading.html#on-my-shelf",
+    "title": "Reading List",
+    "section": "On my Shelf",
+    "text": "On my Shelf\n\nThe Gene: An Intimate History, Siddhartha Mukherjee\nThe Ministry for the Future, Kim Stanley Robinson\nThe Starless Sea, Erin Morgenstern\n1Q84, Haruki Murakami\nNormal Accidents, Charles Perrow\nThe Precipice: Existential Risk and the Future of Humanity, Toby Ord\nHumankind: A Hopeful History, Rutger Bregman\nThe Covenant of Water, Abraham Verghese\nThe Three-Body Problem, Cixin Liu\nThe Dark Forest, Cixin Liu\nDeath’s End, Cixin Liu\nThe Emperor of Gladness, Ocean Vuong\nThe Secret History, Donna Tartt\nDays at the Torunka Café, Satoshi Yagisawa"
   },
   {
-    "objectID": "pages/publications.html#sorted-by-theme",
-    "href": "pages/publications.html#sorted-by-theme",
-    "title": "Publications",
-    "section": "Sorted by theme",
-    "text": "Sorted by theme\n\nStatistical Methods\nLast, F., Author (Preprint). Paper 4.\nLast, F., Author (2023). Paper 1. Journal 1.\n\n\nPublic Health and Medicine\nAuthor, Last, F. (2024). Paper 2. Journal 2.\n\n\nOther\nLast, F. (2026). Paper 3. Journal 3."
+    "objectID": "pages/reading.html#on-my-watchlist",
+    "href": "pages/reading.html#on-my-watchlist",
+    "title": "Reading List",
+    "section": "On my Watchlist",
+    "text": "On my Watchlist\n\nOn the Calculation of Volume, Solvej Balle\nLost Horizon, James Hilton\nIn Praise of Shadows, Junichiro Tanizaki\nAll That Glitters: A Story of Friendship, Fraud, and Fine Art, Orlando Whitfield\nCreation Lake, Rachel Kushner\nA Gentleman and a Thief: The Daring Jewel Heists of a Jazz Age Rogue, Dean Jobb\nDoctored: Fraud, Arrogance, and Tragedy in the Quest to Cure Alzheimer’s, Charles Piller\nRoman Stories, Jhumpa Lahiri\nAnnihilation, Jeff VanderMeer\nInterpreter of Maladies, Jhumpa Lahiri\nThe Tainted Cup, Robert Jackson Bennett\nExhalation, Ted Chiang\nBurn Book: A Tech Love Story, Kara Swisher\nThe Ministry of Utmost Happiness, Arundhati Roy\nThe Maniac, Benjamin Labatut\nThe Antique Hunter’s Guide to Murder, C.L. Miller\nDemon Copperhead, Barbara Kingsolver\nThey Thought They Were Free, Milton Mayer\nThe Emperor of All Maladies, Siddhartha Mukherjee\nYou Can’t Be Neutral on a Moving Train, Howard Zinn\nThe Candy House, Jennifer Egan\nYouthquake: Why African Demography Should Matter to the World, Edward Paice\nThe Knowledge Machine: How Irrationality Created Modern Science, Michael Strevens\nGhost Season, Fatin Abbas\nThe Fractalist: Memoir of a Scientific Maverick, Benoit Mandelbrot\nRiver Spirit, Leila Aboulela\nEducated, Tara Westover\nThe Answer Is …: Reflections on My Life, Alex Trebek\nThe Spy Who Came in from the Cold, John le Carré\nUnder a White Sky: The Nature of the Future, Elizabeth Kolbert\nParable of the Sower, Kim Stanley\nThe Code Breaker, Walter Isaacson\nThe Premonition, Michael Lewis\nWind, Sand and Stars, Antoine de Saint-Exupéry\nWalking the Bowl, Chris Lockhard & Daniel Mulilo Chama\nThe Anarchy: The Relentless Rise of the East India Company, William Dalrymple\nThe Book that Wouldn’t Burn, Mark Lawrence\nAmerican Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, Kai Bird and Martin J. Sherwin\nThe Underworld: Journeys to the Depths of the Ocean, Susan Casey\nThe Secret History, Donna Tartt\nOn Beauty, Zadie Smith\nLoot, Tania James\nRun with the Wind, Shion Miura\nThe Will of the Many, James Islington\nFoster, Claire Keegan\nThe Hour of the Star, Clarice Lispector\nAgua Viva, Clarice Lispector\nThe Passion According to G.H., Clarice Lispector"
   },
   {
-    "objectID": "pages/portfolio.html",
-    "href": "pages/portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Your name, author, author"
-  },
-  {
-    "objectID": "pages/portfolio.html#preprints",
-    "href": "pages/portfolio.html#preprints",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Your name, author, author"
-  },
-  {
-    "objectID": "pages/portfolio.html#publications",
-    "href": "pages/portfolio.html#publications",
-    "title": "Portfolio",
-    "section": "Publications",
-    "text": "Publications\n\ntitle\n\nJournal, YYYY\nauthor, Your name, author, author\n\n\n\ntitle\n\nJournal, YYYY\nYour name, author, author"
-  },
-  {
-    "objectID": "pages/portfolio.html#presentations",
-    "href": "pages/portfolio.html#presentations",
-    "title": "Portfolio",
-    "section": "Presentations",
-    "text": "Presentations\n\ntitle\n\nPresented at conference/event, YYYY\nYour name, author, author\n\n\n\ntitle\n\nPresented at conference/event, YYYY\nYour name, author, author"
-  },
-  {
-    "objectID": "pages/portfolio.html#other-projects",
-    "href": "pages/portfolio.html#other-projects",
-    "title": "Portfolio",
-    "section": "Other Projects",
-    "text": "Other Projects\n\nproject name\nproject description\n\n\nproject name\nproject description"
-  },
-  {
-    "objectID": "pages/cv_resume2.html",
-    "href": "pages/cv_resume2.html",
-    "title": "Curriculum Vitae or Resume Format 2",
-    "section": "",
-    "text": "This is a quicker way to include an existing CV or resume on your website."
-  },
-  {
-    "objectID": "pages/blog.html",
-    "href": "pages/blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "More Musings\n\n\n\n\n\n\n\n\nJan 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRandom Thought I had Today\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "old_index_backup.html",
-    "href": "old_index_backup.html",
-    "title": "Name",
-    "section": "",
-    "text": "This is a template for an academic personal website. It was created with grad students and postdocs in mind, however, others may find it a helpful template as well! We’re hopeful that it will be relevant to those seeking industry as well as academic positions and have created page options that we think are more industry-relevant, however we are more familiar with academic websites. The github repository is https://github.com/ngalanter/academic-website-template.\nThis template uses quarto, you can learn more about quarto websites here: https://quarto.org/docs/websites.\nThis page uses the about page template, see details here: https://quarto.org/docs/websites/website-about.html. This page can be used to give an overview of yourself, and you can link externally and internally.\nThis template uses the minty theme with slight color customization, to change the theme or create a custom theme go to the _quarto.yml file. See here for more details about themes and see here for a preview of what the pre-made themes generally look like.\nSee the repository readme for more information about using this template and publishing via quarto and github pages.\nThis goal of this template is to provide several types of pages that might be relevant, but most personal websites don’t have all of these pages!\n\nNews\nPublished paper Paper 3 in Journal 3\nReleased preprint Paper 4\nExciting update here\nPresented poster Poster at Conference\nPublished paper Paper 2 in Journal 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Name",
-    "section": "",
-    "text": "This is a template for an academic personal website. It was created with grad students and postdocs in mind, however, others may find it a helpful template as well! We’re hopeful that it will be relevant to those seeking industry as well as academic positions and have created page options that we think are more industry-relevant, however we are more familiar with academic websites. The github repository is https://github.com/ngalanter/academic-website-template.\nThis template uses quarto, you can learn more about quarto websites here: https://quarto.org/docs/websites.\nThis page uses the about page template, see details here: https://quarto.org/docs/websites/website-about.html. This page can be used to give an overview of yourself, and you can link externally and internally.\nThis template uses the minty theme with slight color customization, to change the theme or create a custom theme go to the _quarto.yml file. See here for more details about themes and see here for a preview of what the pre-made themes generally look like.\nSee the repository readme for more information about using this template and publishing via quarto and github pages.\nThis goal of this template is to provide several types of pages that might be relevant, but most personal websites don’t have all of these pages!\n\nNews\nPublished paper Paper 3 in Journal 3\nReleased preprint Paper 4\nExciting update here\nPresented poster Poster at Conference\nPublished paper Paper 2 in Journal 2"
+    "objectID": "pages/reading.html#my-reading-timeline",
+    "href": "pages/reading.html#my-reading-timeline",
+    "title": "Reading List",
+    "section": "My Reading Timeline",
+    "text": "My Reading Timeline\n\n2026\n\nThe Bastard of Istanbul, Elif Shafak (March 2026)\nThe Vegetarian, Han Kang (February 2026)\nThe Overstory, Richard Powers (February 2026)\nPick a Colour, Souvankham Thammavongsa (January 2026)\n\n\n\n2025\n\nThe Island of Missing Trees, Elif Shafak (December 2025)\nThe Bone Clocks, David Mitchell (December 2025)\nThe Bee Sting, Paul Murray (November 2025)\nKatabasis, R.F. Kuang (October 2025)\nOne Hundred Years of Solitude, Gabriel García Márquez (September 2025)\nConvenience Store Woman, Sayaka Murata (August 2025)\nThe Burning God, R.F. Kuang (July 2025)\nThe Dragon Republic, R.F. Kuang (July 2025)\nThe Poppy War, R.F. Kuang (July 2025)\nHero of the Empire, Candice Millard (June 2025)\nThe Defector, Chris Hadfield (March 2025)\nRiver of the Gods, Candice Millard (March 2025)\nOn Earth We’re Briefly Gorgeous, Ocean Vuong (February 2025)\nIntermezzo, Sally Rooney (January 2025)\n\n\n\n2024\n\nDune Messiah, Frank Herbert (December 2024)\nThere Are Rivers in the Sky, Elif Shafak (December 2024)\nOrbital, Samantha Harvey (November 2024)\nAppointment with Death, Agatha Christie (November 2024)\nUnaccustomed Earth, Jhumpa Lahiri (November 2024)\nMore Days at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (October 2024)\nDune, Frank Herbert (August 2024)\nDays at the Morisaki Bookshop: A Novel, Satoshi Yagisawa (translated by Eric Ozawa) (July 2024)\nRemarkably Bright Creatures, Shelby Van Pelt (June 2024)\nThe God of Small Things, Arundhati Roy (June 2024)\nWhen I’m Gone, Look For Me in the East, Quan Barry (March 2024)\nBookshops & Bonedust, Travis Baldree (January 2024)\n\n\n\n2023\n\nMurder is Easy, Agatha Christie (December 2023)\nTomorrow, and Tomorrow, and Tomorrow, Gabrielle Zevin (December 2023)\nThe Picture of Dorian Gray, Oscar Wilde (audio by Phoebe Judge) (November 2023)\nThe Decagon House Murders, Yukito Ayatsuji (translated by Ho-ling Wong) (October 2023)\nThe Sun Does Shine, Anthony Ray Hinton (September 2023)\nNeverwhere, Neil Gaiman (August 2023)\nThe Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (audio by Phoebe Judge) (August 2023)\nYellowface, R.F. Kuang (July 2023)\nThe Wager: A Tale of Shipwreck, Mutiny and Murder, David Grann (July 2023)\nThe Apollo Murders, Chris Hadfield (June 2023)\nOn a Night of a Thousand Stars, Andrea Yaryura Clark (May 2023)\nI Contain Multitudes, Ed Yong (March 2023)\nBabel, or the Necessity of Violence, R.F. Kuang (March 2023)\nSwimming Back to Trout River, Linda Rui Feng (February 2023)\n\n\n\n2022\n\nThe Midnight Library, Matt Haig (December 2022)\nLegends & Lattes, Travis Baldree (December 2022)\nHappy City: Transforming Our Lives Through Urban Design, Charles Montgomery (December 2022)\nThe Seven Moons of Maali Almeida, Shehan Karunatilaka (December 2022)\nThe Glass Hotel, Emily St. John Mandel (November 2022)\nHaven, Emma Donoghue (November 2022)\nThe Old Woman with the Knife, Gu Byeong-Mo (October 2022)\nKaikeyi, Vaishnavi Patel (July 2022)\nEmpire of Pain, Patrick Radden Keefe (June 2022)\nSea of Tranquility, Emily St. John Mandel (June 2022)\nThe Entrepreneurial State, Mariana Mazzucato (June 2022)\nThe Wonder, Emma Donoghue (May 2022)\nTokyo Vice, Jake Adelstein (May 2022)\nShape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else, Jordan Ellenberg (April 2022)\nSuper Pumped: The Battle for Uber, Mike Isaac (March 2022)\nWhen We Cease to Understand the World, Benjamin Labatut (February 2022)\nUtopia for Realists, Rutger Bregman (January 2022)\nPlutocrats, Chrystia Freeland (January 2022)\nHow to Pronounce Knife, Souvankham Thammavongsa (January 2022)\n\n\n\n2021 and earlier\n\nNumbers Don’t Lie: 71 Things You Need to Know About the World, Vaclav Smil (December 2021)\nWhat To Expect When You’re Expecting Robots: The Future of Human-Robot Collaboration, Julie Shah & Laura Major (November 2021)\nBad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou (October 2021)\nAnd Then There Were None, Agatha Christie (September 2021)\nHow to Avoid a Climate Disaster, Bill Gates (August 2021)\nA Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution, Jennifer Doudna & Samuel H. Sternberg (July 2021)\nAstrophysics for People in a Hurry, Neil deGrasse Tyson (June 2021)\nThe Universe in a Single Atom, The Dalai Lama (May 2021)\nFierce Kingdom, Gin Phillips (April 2021)\nBillion Dollar Whale, Tom Wright & Bradley Hope (March 2021)\nA Promised Land, Barack Obama (February 2021)\nThe Book of Why: The New Science of Cause and Effect, Judea Pearl & Dana Mackenzie (January 2021)\nCausal Inference, Miguel A. Hernán & James M. Robins (January 2021)\nThe Uninhabitable Earth: Life After Warming, David Wallace-Wells (November 2020)\nThe Wanderers, Meg Howrey (August 2020)\nThe Night Circus, Erin Morgenstern\nAll The Light We Cannot See, Anthony Doerr\nStation Eleven, Emily St. John Mandel\nThe Martian, Andy Weir"
   },
   {
     "objectID": "old_cv_backup.html",
@@ -165,125 +95,62 @@
     "href": "old_publications_backup.html",
     "title": "Publications",
     "section": "",
-    "text": "You may want to divide your publications by type (preprints, journal articles, others) or by theme."
+    "text": "Ameer Dharamshi, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. arXiv\nAmeer Dharamshi, Peter Gao, Jon Wakefield. (2025+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. arXiv\nAmeer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat . (2023+) A Bayesian cohort model for estimating out-of-school rates and populations. SocArXiv"
   },
   {
-    "objectID": "old_publications_backup.html#sorted-by-type",
-    "href": "old_publications_backup.html#sorted-by-type",
+    "objectID": "old_index_backup.html",
+    "href": "old_index_backup.html",
+    "title": "Name",
+    "section": "",
+    "text": "This is a template for an academic personal website. It was created with grad students and postdocs in mind, however, others may find it a helpful template as well! We’re hopeful that it will be relevant to those seeking industry as well as academic positions and have created page options that we think are more industry-relevant, however we are more familiar with academic websites. The github repository is https://github.com/ngalanter/academic-website-template.\nThis template uses quarto, you can learn more about quarto websites here: https://quarto.org/docs/websites.\nThis page uses the about page template, see details here: https://quarto.org/docs/websites/website-about.html. This page can be used to give an overview of yourself, and you can link externally and internally.\nThis template uses the minty theme with slight color customization, to change the theme or create a custom theme go to the _quarto.yml file. See here for more details about themes and see here for a preview of what the pre-made themes generally look like.\nSee the repository readme for more information about using this template and publishing via quarto and github pages.\nThis goal of this template is to provide several types of pages that might be relevant, but most personal websites don’t have all of these pages!\n\nNews\nPublished paper Paper 3 in Journal 3\nReleased preprint Paper 4\nExciting update here\nPresented poster Poster at Conference\nPublished paper Paper 2 in Journal 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ameer Dharamshi",
+    "section": "",
+    "text": "About Me\nI am a fourth-year PhD Candidate in the Department of Biostatistics at the University of Washington supervised by Professors Daniela Witten and Jon Wakefield. In August 2026 I will be joining the Department of Mathematics and Statistics at McGill University as an Assistant Professor. My research focuses on developing strategies for selective inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes. I also actively work on collaborative projects in demography, global development, and quantitative social science that aim to estimate various population indicators (e.g., mortality, fertility, and school completion rates) at national and subnational levels.\nPreviously, I worked as a research and data consultant for the Global Education Monitoring Report at UNESCO. I completed my Master of Science in Statistical Sciences at the University of Toronto and my Bachelor of Mathematics at the University of Waterloo.\nFor more about my academic and professional experiences, please see my Portfolio and CV. I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!\nOutside of my work, I like to ice skate, play squash, run, bake, and really enjoy a good book."
+  },
+  {
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY, Course materials\n\n\nTeaching Assistant\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY\nCourse Name, Institution, Fall/Spring/Winter/Summer YYYY\n\n\nTeaching Related Service\nInstitution\n\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY through YYYY-YY\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY and YYYY-YY\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY\n\nInstitution\n\n(Member/Facilitator/Chair/Organizer/etc) of (Committee or Group) YYYY-YY\n\n\n\nOther\nCourse name, Institution, Fall/Spring/Winter/Summer, Grader/Tutor/etc\nCourse name, Institution, Fall/Spring/Winter/Summer, Grader/Tutor/etc"
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
     "title": "Publications",
-    "section": "Sorted by type",
-    "text": "Sorted by type\n\nPreprints\nLast, F., Author (Preprint). Paper 4.\n\n\nJournal Articles\nLast, F. (2026). Paper 3. Journal 3.\nAuthor, Last, F. (2024). Paper 2. Journal 2.\nLast, F., Author (2023). Paper 1. Journal 1."
+    "section": "",
+    "text": "Ameer Dharamshi, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. arXiv\nAmeer Dharamshi, Peter Gao, Jon Wakefield. (2025+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. arXiv\nAmeer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat . (2023+) A Bayesian cohort model for estimating out-of-school rates and populations. SocArXiv"
   },
   {
-    "objectID": "old_publications_backup.html#sorted-by-theme",
-    "href": "old_publications_backup.html#sorted-by-theme",
+    "objectID": "pages/publications.html#preprints",
+    "href": "pages/publications.html#preprints",
     "title": "Publications",
-    "section": "Sorted by theme",
-    "text": "Sorted by theme\n\nStatistical Methods\nLast, F., Author (Preprint). Paper 4.\nLast, F., Author (2023). Paper 1. Journal 1.\n\n\nPublic Health and Medicine\nAuthor, Last, F. (2024). Paper 2. Journal 2.\n\n\nOther\nLast, F. (2026). Paper 3. Journal 3."
-  },
-  {
-    "objectID": "pages/cv_resume1.html",
-    "href": "pages/cv_resume1.html",
-    "title": "Curriculum Vitae or Resume Format 1",
     "section": "",
-    "text": "Just as with a standard cv or resume, use whatever headings and format makes the most sense for you. These sections are just examples. See here for an overview of markdown formatting in quarto.\nFor the mainfont: pdf option in the header, fonts that work will generally be in ~/Library/Fonts (MacOS) or C:\\Windows\\Fonts (Windows). The pdf is rendered by the site creator so any font found on the site creator’s computer can be used. See also https://quarto.org/docs/reference/formats/pdf.html#fonts ."
+    "text": "Ameer Dharamshi, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. arXiv\nAmeer Dharamshi, Peter Gao, Jon Wakefield. (2025+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. arXiv\nAmeer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat . (2023+) A Bayesian cohort model for estimating out-of-school rates and populations. SocArXiv"
   },
   {
-    "objectID": "pages/cv_resume1.html#education",
-    "href": "pages/cv_resume1.html#education",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "EDUCATION",
-    "text": "EDUCATION\n\nInstition, Location\nDegree, Field, Graduation Month YYYY\nOther Details\n\n\nInstition, Location\nDegree, Field, Graduation Month YYYY\nOther Details"
+    "objectID": "pages/publications.html#publications",
+    "href": "pages/publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\nYunhan Wu, Ameer Dharamshi, Jon Wakefield. (2026+) Small Area Estimation of Education Levels in Low- and Middle-Income Countries. To appear in Annals of Applied Statistics [paper]\nAmeer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025+) Thinning a Wishart Random Matrix. To appear in Biometrika [paper]\nAmeer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten. (2025) Decomposing Gaussians with Unknown Covariance. Biometrika 113 (1) [paper]\nAnna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten, Jacob Bien . (2025) Discussion of ‘Data fission: splitting a single data point’. Journal of the American Statistical Association (Theory & Methods) 120 (549), 151-157 [paper]\nAmeer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025) Generalized Data Thinning Using Sufficient Statistics. Journal of the American Statistical Association (Theory & Methods) 120 (549), 511-523 [paper]\nAmeer Dharamshi, Monica Alexander, Celeste Winant, Magali Barbieri. (2025) Jointly Estimating Subnational Mortality for Multiple Populations. Demographic Research 52, 71-110 [paper]\nAmeer Dharamshi, Vivian Ngo, Jeffrey S. Rosenthal . (2024) Sampling by Divergence Minimization. Communications in Statistics - Simulation and Computation 53 (12), 6071-6095 [paper]\nAnna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten . (2024) Data thinning for convolution-closed distributions. Journal of Machine Learning Research 25 (57), 1-35 [paper]\nAmeer Dharamshi, Bilal Barakat, Leontine Alkema, Manos Antoninis . (2022) A Bayesian model for estimating Sustainable Development Goal indicator 4.1.2: School completion rates. Journal of the Royal Statistical Society (Series C) 71 (5), 1822-1864 [paper]"
   },
   {
-    "objectID": "pages/cv_resume1.html#research-experience",
-    "href": "pages/cv_resume1.html#research-experience",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "RESEARCH EXPERIENCE",
-    "text": "RESEARCH EXPERIENCE\n\nGRADUATE STUDENT RESEARCHER\n\nProject\nInstitution/Company, Month YYYY – Month YYYY\nSupervisor/Advisor/Mentor: Name (if this is relevant)\n\ndetails\n\n\n\nProject\nInstitution/Company, Month YYYY – Month YYYY\nSupervisor/Advisor/Mentor: Name (if this is relevant)\n\ndetails\n\n\n\n\nUNDERGRADUATE STUDENT RESEARCHER\n\nProject\nInstitution/Company, Month YYYY – Month YYYY\nSupervisor/Advisor/Mentor: Name (if this is relevant)\n\ndetails\n\n\n\nProject\nInstitution/Company, Month YYYY – Month YYYY\nSupervisor/Advisor/Mentor: Name (if this is relevant)\n\ndetails"
-  },
-  {
-    "objectID": "pages/cv_resume1.html#publications",
-    "href": "pages/cv_resume1.html#publications",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "PUBLICATIONS",
-    "text": "PUBLICATIONS\nLast, F. (2026). Paper 3. Journal 3.\nLast, F., Author (Preprint). Paper 4.\nAuthor, Last, F. (2024). Paper 2. Journal 2.\nLast, F., Author (2023). Paper 1. Journal 1."
-  },
-  {
-    "objectID": "pages/cv_resume1.html#teaching-experience",
-    "href": "pages/cv_resume1.html#teaching-experience",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "TEACHING EXPERIENCE",
-    "text": "TEACHING EXPERIENCE"
-  },
-  {
-    "objectID": "pages/cv_resume1.html#presentations-and-posters",
-    "href": "pages/cv_resume1.html#presentations-and-posters",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "PRESENTATIONS AND POSTERS",
-    "text": "PRESENTATIONS AND POSTERS\n\nPresentations\nTalk 2\nMeeting, Place, October 2025\n\nTalk 1\nConference, Place, May 2024\nSeminar, Place, March 2024\n\n\nPosters\nPoster\nConference, Place, July 2025"
-  },
-  {
-    "objectID": "pages/cv_resume1.html#professional-service",
-    "href": "pages/cv_resume1.html#professional-service",
-    "title": "Curriculum Vitae or Resume Format 1",
-    "section": "PROFESSIONAL SERVICE",
-    "text": "PROFESSIONAL SERVICE\n\nInstitution\nRole, Committee/Group, Month YYYY – Month YYYY\nRole, Committee/Group, Month YYYY – Month YYYY\n\n\nInstitution/National Organization\nRole, Committee/Group, Month YYYY – Month YYYY\n\n\nReviewer\nJournal\nHTML/PDF formatting option inspired by this page."
-  },
-  {
-    "objectID": "pages/more_about.html",
-    "href": "pages/more_about.html",
-    "title": "More About Me",
+    "objectID": "old_publications_backup.html#preprints",
+    "href": "old_publications_backup.html#preprints",
+    "title": "Publications",
     "section": "",
-    "text": "this page could be used to talk more about your hobbies, background, family, etc. You could include photos as well."
+    "text": "Ameer Dharamshi, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. arXiv\nAmeer Dharamshi, Peter Gao, Jon Wakefield. (2025+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. arXiv\nAmeer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat . (2023+) A Bayesian cohort model for estimating out-of-school rates and populations. SocArXiv"
   },
   {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Description of project and your contributions\n\n\nReport: Type of report or recipient, Month YYYY\nPresentation: Audience or event, Month YYYY\nCode\n\n\n\n\nDescription of project and your contributions\n\n\nReport: Type of report or recipient, Month YYYY\nPresentation: Audience or event, Month YYYY\nCode"
-  },
-  {
-    "objectID": "pages/projects.html#nd-project-name",
-    "href": "pages/projects.html#nd-project-name",
-    "title": "Projects",
-    "section": "",
-    "text": "Description of project and your contributions\n\n\nReport: Type of report or recipient, Month YYYY\nPresentation: Audience or event, Month YYYY\nCode"
-  },
-  {
-    "objectID": "pages/reading_list.html",
-    "href": "pages/reading_list.html",
-    "title": "Reading List",
-    "section": "",
-    "text": "A list of books (no textbooks or research papers!) I’m currently reading and have read in the recent past.\n\nCurrently Reading\n\nBook name, author\n\n\n\nOn my List\n\nBook name, author\nBook name, author\n\n\n\nReading History\n\nBook name, author\nBook name, author"
-  },
-  {
-    "objectID": "pages/research.html",
-    "href": "pages/research.html",
-    "title": "Research and Publications",
-    "section": "",
-    "text": "Description of Research Area"
-  },
-  {
-    "objectID": "pages/research.html#research-area-two",
-    "href": "pages/research.html#research-area-two",
-    "title": "Research and Publications",
-    "section": "Research Area Two",
-    "text": "Research Area Two\n\nDescription of Research Area\n\nPresentations and Code\nTalk Name (Date, Event name or location)\nRepository Name (Code purpose)\n\n\nPublications and Manuscripts\nYour name, Author (YYYY). title. Journal.\nYour name, Author (Preprint). title."
-  },
-  {
-    "objectID": "pages/software.html",
-    "href": "pages/software.html",
-    "title": "Software",
-    "section": "",
-    "text": "Below is a list of R (or whatever software is relevant) packages I have contributed to.\n\npackagename\nRole either in full words or cre,aut,ctb, etc. R package standard roles listed here\nPackage description and how to access it.\n\n\npackagename\nRole either in full words or cre,aut,ctb, etc. R package standard roles listed here\nPackage description and how to access it.\n\n\npackagename\nRole either in full words or cre,aut,ctb, etc. R package standard roles listed here\nPackage description and how to access it."
-  },
-  {
-    "objectID": "posts/post1.html",
-    "href": "posts/post1.html",
-    "title": "Random Thought I had Today",
-    "section": "",
-    "text": "The quick brown fox jumps over the lazy dog"
+    "objectID": "old_publications_backup.html#publications",
+    "href": "old_publications_backup.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\nYunhan Wu, Ameer Dharamshi, Jon Wakefield. (2026+) Small Area Estimation of Education Levels in Low- and Middle-Income Countries. To appear in Annals of Applied Statistics [paper]\nAmeer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025+) Thinning a Wishart Random Matrix. To appear in Biometrika [paper]\nAmeer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten. (2025) Decomposing Gaussians with Unknown Covariance. Biometrika 113(1) [paper]\nAmeer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025) Generalized Data Thinning Using Sufficient Statistics. Journal of the American Statistical Association (Theory & Methods) 120 (549), 511-523 [paper]\nAnna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten, Jacob Bien . (2025) Discussion of ‘Data fission: splitting a single data point’. Journal of the American Statistical Association (Theory & Methods) 120(549), 151-157 [paper]\nAmeer Dharamshi, Monica Alexander, Celeste Winant, Magali Barbieri. (2025) Jointly Estimating Subnational Mortality for Multiple Populations. Demographic Research 52, 71-110 [paper]\nAmeer Dharamshi, Vivian Ngo, Jeffrey S. Rosenthal . (2024) Sampling by Divergence Minimization. Communications in Statistics - Simulation and Computation 53 (12), 6071-6095 [paper]\nAnna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten . (2024) Data thinning for convolution-closed distributions. Journal of Machine Learning Research 25 (57), 1-35 [paper]\nAmeer Dharamshi, Bilal Barakat, Leontine Alkema, Manos Antoninis . (2022) A Bayesian model for estimating Sustainable Development Goal indicator 4.1.2: School completion rates. Journal of the Royal Statistical Society (Series C) 71(5), 1822-1864 [paper]"
   }
 ]

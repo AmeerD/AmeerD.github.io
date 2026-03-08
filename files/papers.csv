@@ -1,0 +1,18 @@
+type,title,journal,authors,year,month,published,link,details
+Publications,A Bayesian model for estimating Sustainable Development Goal indicator 4.1.2: School completion rates,Journal of the Royal Statistical Society (Series C),"Ameer Dharamshi, Bilal Barakat, Leontine Alkema, Manos Antoninis
+",2022,9,Y,https://doi.org/10.1111/rssc.12595,"71 (5), 1822-1864"
+Publications,Sampling by Divergence Minimization,Communications in Statistics - Simulation and Computation,"Ameer Dharamshi, Vivian Ngo, Jeffrey S. Rosenthal
+",2024,4,Y,https://doi.org/10.1080/03610918.2023.2199352,"53 (12), 6071-6095"
+Publications,Data thinning for convolution-closed distributions,Journal of Machine Learning Research,"Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten
+",2024,3,Y,https://www.jmlr.org/papers/volume25/23-0446/23-0446.pdf,"25 (57), 1-35"
+Publications,Jointly Estimating Subnational Mortality for Multiple Populations,Demographic Research,"Ameer Dharamshi, Monica Alexander, Celeste Winant, Magali Barbieri",2025,1,Y,https://www.jstor.org/stable/48822780,"52, 71-110"
+Publications,Generalized Data Thinning Using Sufficient Statistics,Journal of the American Statistical Association (Theory & Methods),"Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, Jacob Bien",2025,4,Y,https://doi.org/10.1080/01621459.2024.2353948,"120 (549), 511-523"
+Publications,Discussion of 'Data fission: splitting a single data point',Journal of the American Statistical Association (Theory & Methods),"Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten, Jacob Bien
+",2025,5,Y,https://doi.org/10.1080/01621459.2024.2421998,"120 (549), 151-157"
+Publications,Decomposing Gaussians with Unknown Covariance,Biometrika,"Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten",2025,7,Y,https://doi.org/10.1093/biomet/asaf057,113 (1)
+Publications,Thinning a Wishart Random Matrix,Biometrika,"Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien",2025,11,N,https://doi.org/10.1093/biomet/asaf081,
+Publications,Small Area Estimation of Education Levels in Low- and Middle-Income Countries,Annals of Applied Statistics,"Yunhan Wu, Ameer Dharamshi, Jon Wakefield",2026,1,N,https://arxiv.org/pdf/2502.07946,
+Preprints,A Bayesian cohort model for estimating out-of-school rates and populations,,"Ameer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat
+",2023,2,N,https://osf.io/preprints/socarxiv/sqwb2_v1,SocArXiv
+Preprints,Exact variance estimation for model-assisted survey estimators using U- and V-statistics,,"Ameer Dharamshi, Peter Gao, Jon Wakefield",2025,2,N,https://arxiv.org/abs/2502.11032,arXiv
+Preprints,Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data,,"Ameer Dharamshi, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey",2026,3,N,,arXiv

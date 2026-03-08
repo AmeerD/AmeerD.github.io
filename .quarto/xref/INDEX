@@ -111,5 +111,14 @@
   },
   "pages/blog.qmd": {
     "blog.html": "86f320c4"
+  },
+  "pages/lab.qmd": {
+    "lab.html": "a42760a0"
+  },
+  "pages/reading.qmd": {
+    "reading.html": "aa057884"
+  },
+  "pages/cv.qmd": {
+    "cv.html": "7f9efe8e"
   }
 }

@@ -3,50 +3,33 @@ project:
   output-dir: docs
 
 website:
-  title: Name
+  title: Ameer Dharamshi
   navbar:
+    background: primary
     right:
-      - href: index.qmd
-        text: About
-      - text: Research/Projects
-        menu: 
-          - href: pages/projects.qmd
-            text: Option 1 Projects
-          - href: pages/publications.qmd
-            text: Option 2 Publications
-          - href: pages/research.qmd
-            text: Option 3 Research
-          - href: pages/portfolio.qmd
-            text: Option 4 Portfolio
-      - href: pages/teaching.qmd
-        text: Teaching
-      - href: pages/software.qmd
-        text: Software
-      - text: CV/Resume
-        menu: 
-          -  href: pages/cv_resume1.qmd
-             text: Option 1
-          -  href: pages/cv_resume2.qmd
-             text: Option 2
-          -  href: https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2021/07/Andrew-Peters.pdf
-             text: Option 3
-      - href: pages/resources.qmd
-        text: Resources
-      - text: Informal Pages
-        menu: 
-          - href: pages/blog.qmd
-            text: Blog
-          - href: pages/reading_list.qmd
-            text: Reading List
-          - href: pages/more_about.qmd
-            text: More About Me
-          - href: pages/rec_lists.qmd
-            text: Personal Rec List
+      # - href: index.qmd
+      #   text: About
+      - href: pages/publications.qmd
+        text: Research
+      # - href: pages/teaching.qmd
+      #   text: Teaching
+      # - href: pages/lab.qmd
+      #   text: Lab
+      - href: pages/cv.qmd
+        text: CV
+      # - href: pages/resources.qmd
+      #   text: Resources
+      - href: pages/reading.qmd
+        text: Reading List
 
 format:
   html:
-    theme: [minty, styles/custom.scss]
+    theme: [sandstone, styles/custom.scss]
     css: styles/styles.css
-    toc: false
+    toc: true
+    toc-location: right
+    # toc-depth: 3
+    # toc-expand: true
+    smooth-scroll: true
 
 editor: source
