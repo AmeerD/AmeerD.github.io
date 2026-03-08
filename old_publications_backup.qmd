@@ -15,12 +15,12 @@ pubs_v1_update_start
 :::
 ## Preprints
 
-**Ameer Dharamshi**, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. arXiv
+**Ameer Dharamshi**, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. 
 
-**Ameer Dharamshi**, Peter Gao, Jon Wakefield. (2026+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. arXiv
+**Ameer Dharamshi**, Peter Gao, Jon Wakefield. (2026+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. [[arXiv](https://arxiv.org/abs/2502.11032)]
 
 **Ameer Dharamshi**, Manos Antoninis, Silvia Montoya, Bilal Barakat
-. (2026+) A Bayesian cohort model for estimating out-of-school rates and populations. SocArXiv
+. (2026+) A Bayesian cohort model for estimating out-of-school rates and populations. [[SocArXiv](https://osf.io/preprints/socarxiv/sqwb2_v1)]
 
 ## Publications
 
