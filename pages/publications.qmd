@@ -15,7 +15,7 @@ pubs_v1_update_start
 :::
 ## Preprints
 
-**Ameer Dharamshi**, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. 
+**Ameer Dharamshi**, Mary Richards, Suzanne Childress, Brian Lee, and Daniel Casey. (2026+) Estimating Residential Displacement in the Central Puget Sound Region using Household Survey Data. [[arXiv](https://arxiv.org/abs/2603.06437)]
 
 **Ameer Dharamshi**, Peter Gao, Jon Wakefield. (2026+) Exact variance estimation for model-assisted survey estimators using U- and V-statistics. [[arXiv](https://arxiv.org/abs/2502.11032)]
 
