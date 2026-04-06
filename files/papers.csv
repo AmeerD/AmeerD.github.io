@@ -10,8 +10,8 @@ Publications,Generalized Data Thinning Using Sufficient Statistics,Journal of th
 Publications,Discussion of 'Data fission: splitting a single data point',Journal of the American Statistical Association (Theory & Methods),"Anna Neufeld, Ameer Dharamshi, Lucy L. Gao, Daniela Witten, Jacob Bien
 ",2025,5,Y,https://doi.org/10.1080/01621459.2024.2421998,"120 (549), 151-157"
 Publications,Decomposing Gaussians with Unknown Covariance,Biometrika,"Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten",2025,7,Y,https://doi.org/10.1093/biomet/asaf057,113 (1)
-Publications,Thinning a Wishart Random Matrix,Biometrika,"Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien",2025,11,N,https://doi.org/10.1093/biomet/asaf081,
-Publications,Small Area Estimation of Education Levels in Low- and Middle-Income Countries,Annals of Applied Statistics,"Yunhan Wu, Ameer Dharamshi, Jon Wakefield",2026,1,N,https://arxiv.org/pdf/2502.07946,
+Publications,Thinning a Wishart Random Matrix,Biometrika,"Ameer Dharamshi, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien",2025,11,Y,https://doi.org/10.1093/biomet/asaf081,113 (1)
+Publications,Small Area Estimation of Education Levels in Low- and Middle-Income Countries,Annals of Applied Statistics,"Yunhan Wu, Ameer Dharamshi, Jon Wakefield",2026,1,Y,https://arxiv.org/pdf/2502.07946,"20(1), 833-855"
 Preprints,A Bayesian cohort model for estimating out-of-school rates and populations,,"Ameer Dharamshi, Manos Antoninis, Silvia Montoya, Bilal Barakat
 ",2023,2,N,https://osf.io/preprints/socarxiv/sqwb2_v1,SocArXiv
 Preprints,Exact variance estimation for model-assisted survey estimators using U- and V-statistics,,"Ameer Dharamshi, Peter Gao, Jon Wakefield",2025,2,N,https://arxiv.org/abs/2502.11032,arXiv

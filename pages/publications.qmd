@@ -24,9 +24,9 @@ pubs_v1_update_start
 
 ## Publications
 
-Yunhan Wu, **Ameer Dharamshi**, Jon Wakefield. (2026+) Small Area Estimation of Education Levels in Low- and Middle-Income Countries. To appear in *Annals of Applied Statistics*  [[paper](https://arxiv.org/pdf/2502.07946)]
+Yunhan Wu, **Ameer Dharamshi**, Jon Wakefield. (2026) Small Area Estimation of Education Levels in Low- and Middle-Income Countries. *Annals of Applied Statistics* 20(1), 833-855 [[paper](https://arxiv.org/pdf/2502.07946)]
 
-**Ameer Dharamshi**, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025+) Thinning a Wishart Random Matrix. To appear in *Biometrika*  [[paper](https://doi.org/10.1093/biomet/asaf081)]
+**Ameer Dharamshi**, Anna Neufeld, Lucy L. Gao, Daniela Witten, Jacob Bien. (2025) Thinning a Wishart Random Matrix. *Biometrika* 113 (1) [[paper](https://doi.org/10.1093/biomet/asaf081)]
 
 **Ameer Dharamshi**, Anna Neufeld, Lucy L. Gao, Jacob Bien, Daniela Witten. (2025) Decomposing Gaussians with Unknown Covariance. *Biometrika* 113 (1) [[paper](https://doi.org/10.1093/biomet/asaf057)]
 
